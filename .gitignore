@@ -37,3 +37,8 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# Server deployment & hosting scripts (local only)
+deploy/
+ecosystem.config.cjs
+backend/server.js
