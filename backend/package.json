@@ -1,0 +1,16 @@
+{
+  "name": "taktak-scraper-backend",
+  "version": "1.0.0",
+  "description": "Backend Scraper Runner for TakTak Jobs using Self-Hosted Firecrawl",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dry-run": "DRY_RUN=true node index.js",
+    "test-3": "DRY_RUN=true PORTALS=topjobs,xpressjobs,rooster node index.js",
+    "test": "node test_components.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}

@@ -1,0 +1,4717 @@
+{
+  "exported_at": "2026-10-30T04:24:22.582Z",
+  "total_jobs": 440,
+  "total_runs": 68,
+  "seen_jobs": [
+    {
+      "url": "https://dreamjobs.lk/jobs/senior-software-engineer-software-engineer-php-onsite-5",
+      "portal": "dreamjobs",
+      "title": "Senior Software Engineer/ Software Engineer- PHP (Onsite) 2026",
+      "company": "Elegant Media (Pvt) Ltd",
+      "first_seen_at": "2026-10-30T04:24:22.550Z",
+      "last_seen_at": "2026-10-30T04:24:22.550Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Personal-Assistant-to-Director-2024-12-23-1363500",
+      "portal": "jobeka",
+      "title": "Personal Assistant to Director in Colombo 10 at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-30T04:23:53.283Z",
+      "last_seen_at": "2026-10-30T04:23:53.283Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Assistant-Manager-Finance-Operations-2024-12-24-1363506",
+      "portal": "jobeka",
+      "title": "Assistant Manager - Finance Operations in Colombo 10 at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-30T04:23:46.397Z",
+      "last_seen_at": "2026-10-30T04:23:46.397Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Senior-Executive-Legal-2024-12-30-1363515",
+      "portal": "jobeka",
+      "title": "Senior Executive - Legal in Colombo 10 at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-30T04:23:39.516Z",
+      "last_seen_at": "2026-10-30T04:23:39.516Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Operations-Assistant-Sea-Freight-2024-12-31-1363519",
+      "portal": "jobeka",
+      "title": "Operations Assistant - Sea Freight in Colombo 10 at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-30T04:23:32.488Z",
+      "last_seen_at": "2026-10-30T04:23:32.488Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Junior-Executive-Production-2025-01-02-1363526",
+      "portal": "jobeka",
+      "title": "Junior Executive - Production  in Colombo 10 at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-30T04:23:25.759Z",
+      "last_seen_at": "2026-10-30T04:23:25.759Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-Stock-and-Customs-Management-2025-01-03-1363530",
+      "portal": "jobeka",
+      "title": "Executive - Stock and Customs Management in Colombo 10 at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-30T04:23:18.951Z",
+      "last_seen_at": "2026-10-30T04:23:18.951Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-HR-Executive-Recruitments-2025-01-03-1363531",
+      "portal": "jobeka",
+      "title": "HR Executive – Recruitments in Colombo 10 at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-30T04:23:13.654Z",
+      "last_seen_at": "2026-10-30T04:23:13.654Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Systems-Administrator-2025-01-06-1363540",
+      "portal": "jobeka",
+      "title": "Systems Administrator in Colombo 10 at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-30T04:23:07.796Z",
+      "last_seen_at": "2026-10-30T04:23:07.796Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Assistant-Manager-Sales-Marketing-2025-01-07-1363545",
+      "portal": "jobeka",
+      "title": "Assistant Manager - Sales & Marketing in Colombo 10 at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-30T04:23:01.181Z",
+      "last_seen_at": "2026-10-30T04:23:01.181Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Senior-Mobile-Frontend-Developer--Android--iOS---React-Native--Java--1363549",
+      "portal": "jobeka",
+      "title": "Senior Mobile Frontend Developer (Android, iOS / React Native, Java) in Battaramulla at iLabs",
+      "company": "iLabs",
+      "first_seen_at": "2026-10-30T04:22:54.581Z",
+      "last_seen_at": "2026-10-30T04:22:54.581Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Senior-JAVA-Full-Stack-Developer-1363550",
+      "portal": "jobeka",
+      "title": "Senior JAVA Full Stack Developer in Battaramulla at iLabs",
+      "company": "iLabs",
+      "first_seen_at": "2026-10-30T04:22:47.691Z",
+      "last_seen_at": "2026-10-30T04:22:47.691Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Senior-Executive-Group-Corporate-Communication-and-Marketing-2025-01-08-1363553",
+      "portal": "jobeka",
+      "title": "Senior Executive – Group Corporate Communication and Marketing in Colombo 10 at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-30T04:22:40.931Z",
+      "last_seen_at": "2026-10-30T04:22:40.931Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-Vessel-Operations-2025-01-15-1363563",
+      "portal": "jobeka",
+      "title": "Executive - Vessel Operations in Colombo 10 at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-30T04:22:35.531Z",
+      "last_seen_at": "2026-10-30T04:22:35.531Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Manager-Sales-Marketing-2025-01-15-1363564",
+      "portal": "jobeka",
+      "title": "Manager Sales & Marketing in Colombo 10 at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-30T04:22:28.600Z",
+      "last_seen_at": "2026-10-30T04:22:28.600Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Plant-Manager-2025-01-17-1363577",
+      "portal": "jobeka",
+      "title": "Plant Manager in Colombo 10 at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-30T04:22:22.892Z",
+      "last_seen_at": "2026-10-30T04:22:22.892Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-Business-Support-2025-01-17-1363578",
+      "portal": "jobeka",
+      "title": "Executive - Business Support in Colombo 2 at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-30T04:22:17.372Z",
+      "last_seen_at": "2026-10-30T04:22:17.372Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Associate-Data-Engineer---Data-Engineer-1363591",
+      "portal": "jobeka",
+      "title": "Associate Data Engineer / Data Engineer in Battaramulla at iLabs",
+      "company": "iLabs",
+      "first_seen_at": "2026-10-30T04:22:10.626Z",
+      "last_seen_at": "2026-10-30T04:22:10.626Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/TEACHER-1363649",
+      "portal": "jobeka",
+      "title": "TEACHER in Boralesgamuwa at Diligent Consulting Group",
+      "company": "Diligent Consulting Group",
+      "first_seen_at": "2026-10-30T04:22:05.123Z",
+      "last_seen_at": "2026-10-30T04:22:05.123Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/SE-1364185",
+      "portal": "jobeka",
+      "title": "SE in Sri Jayawardenepura at Giko Lanka",
+      "company": "Giko Lanka",
+      "first_seen_at": "2026-10-30T04:21:59.375Z",
+      "last_seen_at": "2026-10-30T04:21:59.375Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Marketing-Assistants-1353817",
+      "portal": "jobeka",
+      "title": "Marketing Assistants in Anuradhapura at Kanola Hospital",
+      "company": "Kanola Hospital",
+      "first_seen_at": "2026-10-30T04:21:54.513Z",
+      "last_seen_at": "2026-10-30T04:21:54.513Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Manager-Marketing-1353993",
+      "portal": "jobeka",
+      "title": "Manager Marketing in Anuradhapura at Kanola Hospital",
+      "company": "Kanola Hospital",
+      "first_seen_at": "2026-10-30T04:21:48.112Z",
+      "last_seen_at": "2026-10-30T04:21:48.112Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Durdans-Hospital-Phlebotomist-2024-01-08-1362322",
+      "portal": "jobeka",
+      "title": "Phlebotomist in Anuradhapura at Durdans Hospital",
+      "company": "Durdans Hospital",
+      "first_seen_at": "2026-10-30T04:21:09.974Z",
+      "last_seen_at": "2026-10-30T04:21:09.974Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/delivery-rider-male-female-colombo-12",
+      "portal": "ikman",
+      "title": "Delivery Rider (Male/Female) Vacancy",
+      "company": "𝐃𝐚𝐫𝐚𝐳 Expressed",
+      "first_seen_at": "2026-10-30T04:20:53.179Z",
+      "last_seen_at": "2026-10-30T04:20:53.179Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/internships-accounts-colombo",
+      "portal": "ikman",
+      "title": "Internships - Accounts",
+      "company": "ISARO AUTOMATION SYSTEMS (PVT) LTD",
+      "first_seen_at": "2026-10-30T04:20:46.409Z",
+      "last_seen_at": "2026-10-30T04:20:46.409Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/cook-wanted-at-the-seascape-matara-matara-1",
+      "portal": "ikman",
+      "title": "Cook Wanted at The Seascape (Matara)",
+      "company": "The Seascape Pvt Ltd",
+      "first_seen_at": "2026-10-30T04:20:32.403Z",
+      "last_seen_at": "2026-10-30T04:20:32.403Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/apply-for-housekeeper-at-the-seascape-in-matara-matara-1",
+      "portal": "ikman",
+      "title": "Apply for Housekeeper at The Seascape in Matara",
+      "company": "The Seascape Pvt Ltd",
+      "first_seen_at": "2026-10-30T04:20:24.857Z",
+      "last_seen_at": "2026-10-30T04:20:24.857Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/account-executive-for-hire-in-kuliyapitiya-kurunegala",
+      "portal": "ikman",
+      "title": "Account Executive",
+      "company": "Chathura Chandrasekara",
+      "first_seen_at": "2026-10-30T04:20:15.444Z",
+      "last_seen_at": "2026-10-30T04:20:15.444Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/uber-car-tuk-moto-driver-partner-island-wide-divyin-puraa-colombo-1",
+      "portal": "ikman",
+      "title": "Uber Car Tuk Moto Driver Partner - Island Wide දිවයින පුරා Vacancy",
+      "company": "Uber Sri Lanka",
+      "first_seen_at": "2026-10-30T04:20:06.220Z",
+      "last_seen_at": "2026-10-30T04:20:06.220Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/uber-driver-partner-island-wide-divyin-puraa-colombo",
+      "portal": "ikman",
+      "title": "Uber Driver Partner- Island Wide දිවයින පුරා Vacancy",
+      "company": "Uber Sri Lanka",
+      "first_seen_at": "2026-10-30T04:19:59.673Z",
+      "last_seen_at": "2026-10-30T04:19:59.673Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/personal-assistant-female-colombo-82",
+      "portal": "ikman",
+      "title": "Personal assistant female",
+      "company": "jobforu",
+      "first_seen_at": "2026-10-30T04:19:52.803Z",
+      "last_seen_at": "2026-10-30T04:19:52.803Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/uber-tuk-driver-partner-island-wide-divyin-puraa-colombo",
+      "portal": "ikman",
+      "title": "Uber Tuk Driver Partner - Island Wide දිවයින පුරා Vacancy",
+      "company": "Uber Sri Lanka",
+      "first_seen_at": "2026-10-30T04:19:46.190Z",
+      "last_seen_at": "2026-10-30T04:19:46.190Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/hr-trainee-colombo-3",
+      "portal": "ikman",
+      "title": "HR Trainee",
+      "company": "S.S. CONSULTANTS & CORPORATE SECRETARIES (PVT) LTD",
+      "first_seen_at": "2026-10-30T04:19:37.824Z",
+      "last_seen_at": "2026-10-30T04:19:37.824Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/uber-car-tuk-moto-driver-partner-galle-galle-7",
+      "portal": "ikman",
+      "title": "Uber Car Tuk Moto Driver Partner - Galle Vacancy",
+      "company": "Uber Sri Lanka",
+      "first_seen_at": "2026-10-30T04:19:32.061Z",
+      "last_seen_at": "2026-10-30T04:19:32.061Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/receptionist-colombo-2355",
+      "portal": "ikman",
+      "title": "Receptionist",
+      "company": "S.S. CONSULTANTS & CORPORATE SECRETARIES (PVT) LTD",
+      "first_seen_at": "2026-10-30T04:19:25.295Z",
+      "last_seen_at": "2026-10-30T04:19:25.295Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/data-entry-operator-online-part-time-works-from-home-all-islands-colombo",
+      "portal": "ikman",
+      "title": "Data Entry Operator Online - Part Time (Works from Home) All Islands",
+      "company": "IIF HOLDIN PVT LTD",
+      "first_seen_at": "2026-10-30T04:19:16.772Z",
+      "last_seen_at": "2026-10-30T04:19:16.772Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/head-chef-chinese-restaurant-with-kitchen-operations-matara",
+      "portal": "ikman",
+      "title": "Head Chef – Chinese Restaurant With Kitchen Operations Vacancy",
+      "company": "Grand Rockland Hotel",
+      "first_seen_at": "2026-10-30T04:19:08.391Z",
+      "last_seen_at": "2026-10-30T04:19:08.391Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/juice-maker-colombo-53",
+      "portal": "ikman",
+      "title": "Juice Maker",
+      "company": "Odyssey Ventures Private Limited",
+      "first_seen_at": "2026-10-30T04:18:53.032Z",
+      "last_seen_at": "2026-10-30T04:18:53.032Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/drivers-wadduwa-kalutara-34",
+      "portal": "ikman",
+      "title": "Drivers - Wadduwa Vacancy",
+      "company": "Private Poster",
+      "first_seen_at": "2026-10-30T04:18:45.970Z",
+      "last_seen_at": "2026-10-30T04:18:45.970Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/billing-assistant-colombo-7",
+      "portal": "ikman",
+      "title": "Billing Assistant",
+      "company": "Private Poster",
+      "first_seen_at": "2026-10-30T04:18:38.547Z",
+      "last_seen_at": "2026-10-30T04:18:38.547Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/showroom-sales-helper-colombo",
+      "portal": "ikman",
+      "title": "Showroom Sales Helper",
+      "company": "Private Poster",
+      "first_seen_at": "2026-10-30T04:18:32.680Z",
+      "last_seen_at": "2026-10-30T04:18:32.680Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/sales-representatives-colombo-543",
+      "portal": "ikman",
+      "title": "Sales Representatives",
+      "company": "MAJESTIC INTERNATIONAL PRIVATE LIMITED",
+      "first_seen_at": "2026-10-30T04:18:25.765Z",
+      "last_seen_at": "2026-10-30T04:18:25.765Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/sales-assistants-male-gampaha",
+      "portal": "ikman",
+      "title": "Sales Assistants (Male)",
+      "company": "Vertex Motors",
+      "first_seen_at": "2026-10-30T04:18:02.894Z",
+      "last_seen_at": "2026-10-30T04:18:02.894Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/uber-moto-delivery-rider-island-wide-divyin-puraa-colombo",
+      "portal": "ikman",
+      "title": "Uber Moto Delivery Rider - Island Wide දිවයින පුරා Vacancy",
+      "company": "Uber Sri Lanka",
+      "first_seen_at": "2026-10-30T04:17:54.886Z",
+      "last_seen_at": "2026-10-30T04:17:54.886Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/parking-attendant-gampaha",
+      "portal": "ikman",
+      "title": "PARKING ATTENDANT Vacancy",
+      "company": "FAMILY CHEF BAKERS",
+      "first_seen_at": "2026-10-30T04:17:45.371Z",
+      "last_seen_at": "2026-10-30T04:17:45.371Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/plumber-gampaha-3",
+      "portal": "ikman",
+      "title": "Plumber",
+      "company": "Daiki Axis Environment (Pvt) Ltd",
+      "first_seen_at": "2026-10-30T04:17:37.821Z",
+      "last_seen_at": "2026-10-30T04:17:37.821Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/344721/delivery-rider-full-time-ahangama-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Delivery Rider Full Time",
+      "company": "Ahangama Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-30T04:17:23.603Z",
+      "last_seen_at": "2026-10-30T04:17:23.603Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/344637/trainee-receptionist-male-female-dehiwala-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Trainee Receptionist Male Female",
+      "company": "Dehiwala Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-30T04:17:10.215Z",
+      "last_seen_at": "2026-10-30T04:17:10.215Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/345130/crew-members-ahangama-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members",
+      "company": "Ahangama Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-30T04:16:48.807Z",
+      "last_seen_at": "2026-10-30T04:16:48.807Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/347704/area-manager-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Area Manager",
+      "company": "Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-30T04:16:43.581Z",
+      "last_seen_at": "2026-10-30T04:16:43.581Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/347631/crew-members-kottawa-homagama-moratuwa-kalutara-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Kottawa Homagama Moratuwa",
+      "company": "Kalutara Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-30T04:16:38.698Z",
+      "last_seen_at": "2026-10-30T04:16:38.698Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/347630/crew-members-athurugiriya-nawala-pitakotte-pelawatte-malabe-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Athurugiriya Nawala Pitakotte Pelawatte",
+      "company": "Malabe Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-30T04:16:33.511Z",
+      "last_seen_at": "2026-10-30T04:16:33.511Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/347629/crew-members-independence-arcade-bambalapitiya-port-city-union-place-dehiwala-mount-lavinia-havelock-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Independence Arcade Bambalapitiya Port City Union Place Dehiwala Mount Lavinia",
+      "company": "Havelock Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-30T04:16:27.066Z",
+      "last_seen_at": "2026-10-30T04:16:27.066Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/347854/restaurant-senior-assistant-associate-managers-island-wide-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Restaurant Senior Assistant Associate Managers Island",
+      "company": "Wide Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-30T04:16:16.627Z",
+      "last_seen_at": "2026-10-30T04:16:16.627Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/347706/crew-members-athurugiriya-malabe-pelawatta-gothatuwa-pitakotte-hokandara-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Athurugiriya Malabe Pelawatta Gothatuwa Pitakotte",
+      "company": "Hokandara Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-30T04:16:06.249Z",
+      "last_seen_at": "2026-10-30T04:16:06.249Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/347705/crew-members-union-place-havelock-independent-arcade-port-city-nugegoda-panadura-moratuwa-mount-lavinia-kottawa-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Union Place Havelock Independent Arcade Port City Nugegoda Panadura Moratuwa Mount Lavinia",
+      "company": "Kottawa Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-30T04:16:02.441Z",
+      "last_seen_at": "2026-10-30T04:16:02.441Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/343595/crew-members-chilaw-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members",
+      "company": "Chilaw Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-30T04:15:47.532Z",
+      "last_seen_at": "2026-10-30T04:15:47.532Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/343114/බකර්-baker-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "බකර්",
+      "company": "Baker Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-30T04:15:41.077Z",
+      "last_seen_at": "2026-10-30T04:15:41.077Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/343113/assistant-engineer-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Assistant Engineer",
+      "company": "Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-30T04:15:33.191Z",
+      "last_seen_at": "2026-10-30T04:15:33.191Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://www.topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001565726&ec=DEFZZZ",
+      "portal": "topjobs",
+      "title": "Assistant Manager - IT",
+      "company": "Ninewells Hospital (Pvt) Ltd",
+      "first_seen_at": "2026-10-30T04:15:20.938Z",
+      "last_seen_at": "2026-10-30T04:15:20.938Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://www.topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001565702&ec=DEFZZZ",
+      "portal": "topjobs",
+      "title": "Executive - Business Data Analyst (Male) - Boralesgamuwa",
+      "company": "Company Name Withheld",
+      "first_seen_at": "2026-10-30T04:15:08.864Z",
+      "last_seen_at": "2026-10-30T04:15:08.864Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Peliyagoda/305085/call-center-executive-female-peliyagoda-daily-fresh-colombo-pvt-limited",
+      "portal": "jobhub",
+      "title": "Call Center Executive",
+      "company": "Direct Employer",
+      "first_seen_at": "2026-10-29T09:27:49.914Z",
+      "last_seen_at": "2026-10-29T09:27:49.914Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/North%20Western%20Province/Dankotuwa/305086/production-supervisor-dankotuwa-st-regis-packaging-pvt-limited",
+      "portal": "jobhub",
+      "title": "Production Supervisor (Dankotuwa) Job Vacancy in Dankotuwa, North Western Province",
+      "company": "Direct Employer",
+      "first_seen_at": "2026-10-29T09:27:41.759Z",
+      "last_seen_at": "2026-10-29T09:27:41.759Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/North%20Western%20Province/Wennappuwa/305087/account-assistant-st-theresa-refrigeration-and-engneering-pvt-ltd",
+      "portal": "jobhub",
+      "title": "Account Assistant Job Vacancy in Wennappuwa, North Western Province",
+      "company": "And Engneering Pvt Ltd",
+      "first_seen_at": "2026-10-29T09:27:34.160Z",
+      "last_seen_at": "2026-10-29T09:27:34.160Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/305088/financial-analyst-hayleys-group",
+      "portal": "jobhub",
+      "title": "Financial Analyst Job Vacancy",
+      "company": "Direct Employer",
+      "first_seen_at": "2026-10-29T09:27:27.972Z",
+      "last_seen_at": "2026-10-29T09:27:27.972Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Colombo/305089/senior-accounts-executive-pmd-trading-pvt-ltd",
+      "portal": "jobhub",
+      "title": "Senior Accounts Executive Job Vacancy in Colombo, Western Province",
+      "company": "Pmd Trading Pvt Ltd",
+      "first_seen_at": "2026-10-29T09:27:21.229Z",
+      "last_seen_at": "2026-10-29T09:27:21.229Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/305090/quantity-surveyor-vidullanka-plc",
+      "portal": "jobhub",
+      "title": "Quantity Surveyor Job Vacancy",
+      "company": "Vidullanka Plc",
+      "first_seen_at": "2026-10-29T09:27:12.457Z",
+      "last_seen_at": "2026-10-29T09:27:12.457Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Colombo/305091/manager-legal-head-office-u-b-finance-plc",
+      "portal": "jobhub",
+      "title": "Manager",
+      "company": "Direct Employer",
+      "first_seen_at": "2026-10-29T09:27:05.451Z",
+      "last_seen_at": "2026-10-29T09:27:05.451Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Colombo/305092/engineers-technicians-quantity-surveyors-dashodhaya-pvt-ltd",
+      "portal": "jobhub",
+      "title": "Engineers",
+      "company": "Quantity Surveyors Job Vacancy in Colombo, Western Province",
+      "first_seen_at": "2026-10-29T09:26:59.396Z",
+      "last_seen_at": "2026-10-29T09:26:59.396Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://dreamjobs.lk/jobs/senior-software-engineer-software-engineer-php-onsite-6",
+      "portal": "dreamjobs",
+      "title": "Senior Software Engineer/ Software Engineer- PHP (Onsite) 2026",
+      "company": "Elegant Media (Pvt) Ltd",
+      "first_seen_at": "2026-10-29T09:26:32.289Z",
+      "last_seen_at": "2026-10-29T09:26:32.289Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://observerjobs.lk/vacancy/536/engineer--civil--engineer--mechanical--engineer--electrical--engineering-assistant--civil",
+      "portal": "observerjobs",
+      "title": "Engineer ( Civil ) / Engineer ( Mechanical ) / Engineer ( Electrical ) / Engineering Assistant ( Civil )",
+      "company": "National Water Supply And Drainage Board",
+      "first_seen_at": "2026-10-29T09:26:10.384Z",
+      "last_seen_at": "2026-10-29T09:26:10.384Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/nair-systems-36-system-administrator-2/",
+      "portal": "jobpal",
+      "title": "System Administrator",
+      "company": "Nair Systems",
+      "first_seen_at": "2026-10-29T09:25:59.413Z",
+      "last_seen_at": "2026-10-29T09:25:59.413Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Durdans-Hospital-Phlebotomist-2024-01-12-1362350",
+      "portal": "jobeka",
+      "title": "Phlebotomist in Anuradhapura at Durdans Hospital",
+      "company": "Durdans Hospital",
+      "first_seen_at": "2026-10-29T09:24:32.878Z",
+      "last_seen_at": "2026-10-29T09:24:32.878Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/343596/delivery-rider-full-time-chilaw-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Delivery Rider Full Time",
+      "company": "Chilaw Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:23:34.093Z",
+      "last_seen_at": "2026-10-29T09:23:34.093Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/344414/junior-executive-new-product-development-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Junior Executive New Product",
+      "company": "Development Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:23:20.209Z",
+      "last_seen_at": "2026-10-29T09:23:20.209Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/344084/delivery-rider-full-time-trincomalee-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Delivery Rider Full Time",
+      "company": "Trincomalee Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:23:06.718Z",
+      "last_seen_at": "2026-10-29T09:23:06.718Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/344083/crew-members-trincomalee-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members",
+      "company": "Trincomalee Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:22:52.348Z",
+      "last_seen_at": "2026-10-29T09:22:52.348Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/344082/junior-executive-supply-chain-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Junior Executive Supply",
+      "company": "Chain Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:22:37.497Z",
+      "last_seen_at": "2026-10-29T09:22:37.497Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/344081/hr-intern-kelaniya-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Hr Intern",
+      "company": "Kelaniya Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:22:23.271Z",
+      "last_seen_at": "2026-10-29T09:22:23.271Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/344080/delivery-rider-full-time-pita-kotte-malabe-pelawatta-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Delivery Rider Full Time Pita Kotte Malabe",
+      "company": "Pelawatta Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:22:09.802Z",
+      "last_seen_at": "2026-10-29T09:22:09.802Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/344584/delivery-rider-full-time-homagama-kottawa-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Delivery Rider Full Time Homagama",
+      "company": "Kottawa Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:21:28.209Z",
+      "last_seen_at": "2026-10-29T09:21:28.209Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/344582/management-trainee-restaurant-manager-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Management Trainee Restaurant Manager",
+      "company": "Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:20:59.300Z",
+      "last_seen_at": "2026-10-29T09:20:59.300Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/344558/internship-quality-assurance-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Internship Quality",
+      "company": "Assurance Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:20:44.693Z",
+      "last_seen_at": "2026-10-29T09:20:44.693Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/345133/crew-members-pitakotte-nawala-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Pitakotte",
+      "company": "Nawala Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:20:30.452Z",
+      "last_seen_at": "2026-10-29T09:20:30.452Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/345132/delivery-rider-full-time-pitakotte-nawala-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Delivery Rider Full Time Pitakotte",
+      "company": "Nawala Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:20:16.237Z",
+      "last_seen_at": "2026-10-29T09:20:16.237Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/345131/delivery-rider-full-time-ahangama-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Delivery Rider Full Time",
+      "company": "Ahangama Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:20:00.492Z",
+      "last_seen_at": "2026-10-29T09:20:00.492Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/345129/crew-members-kalutara-kiribathgoda-wattala-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Kalutara Kiribathgoda",
+      "company": "Wattala Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:19:28.089Z",
+      "last_seen_at": "2026-10-29T09:19:28.089Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/345128/crew-members-ahangama-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members",
+      "company": "Ahangama Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:19:12.879Z",
+      "last_seen_at": "2026-10-29T09:19:12.879Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/345603/delivery-rider-full-time-port-city-independence-arcade-union-place-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Delivery Rider Full Time Port City Independence Arcade Union",
+      "company": "Place Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:18:58.475Z",
+      "last_seen_at": "2026-10-29T09:18:58.475Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/345602/crew-members-independence-arcade-union-place-havelock-bambalapitiya-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Independence Arcade Union Place Havelock",
+      "company": "Bambalapitiya Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:18:43.349Z",
+      "last_seen_at": "2026-10-29T09:18:43.349Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/345601/crew-members-mount-lavinia-moratuwa-wattala-ragama-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Mount Lavinia Moratuwa Wattala",
+      "company": "Ragama Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:18:29.016Z",
+      "last_seen_at": "2026-10-29T09:18:29.016Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/345600/crew-members-independence-arcade-union-place-havelock-bambalapitiya-port-city-nugegoda-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Independence Arcade Union Place Havelock Bambalapitiya Port City",
+      "company": "Nugegoda Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:18:13.480Z",
+      "last_seen_at": "2026-10-29T09:18:13.480Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/345555/crew-members-mount-lavinia-dehiwela-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Mount Lavinia",
+      "company": "Dehiwela Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:17:59.821Z",
+      "last_seen_at": "2026-10-29T09:17:59.821Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/345134/internship-human-resource-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Internship Human",
+      "company": "Resource Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:17:43.931Z",
+      "last_seen_at": "2026-10-29T09:17:43.931Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/345753/delivery-rider-full-time-athurugiriya-nawala-pitakotte-malabe-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Delivery Rider Full Time Athurugiriya Nawala Pitakotte",
+      "company": "Malabe Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:17:29.316Z",
+      "last_seen_at": "2026-10-29T09:17:29.316Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/345606/කර්මන්ත-ශල-සවක-පුහුණු-නුපුහුණු-කලණිය-factory-worker-traineeexperienced-kelaniya-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "කර්මන්ත ශල සවක පුහුණු නුපුහුණු කලණිය Factory Worker Traineeexperienced",
+      "company": "Kelaniya Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:17:14.636Z",
+      "last_seen_at": "2026-10-29T09:17:14.636Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/345605/ගබඩ-සහයක-ගබඩ-පලක-පුහුණු-නුපුහුණු-කලණිය-warehouse-assistant-warehouse-supervisor-trainee-experienced-kelaniya-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "ගබඩ සහයක ගබඩ පලක පුහුණු නුපුහුණු කලණිය Warehouse Assistant Warehouse Supervisor Trainee Experienced",
+      "company": "Kelaniya Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:17:00.401Z",
+      "last_seen_at": "2026-10-29T09:17:00.401Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/345604/crew-members-athurugiriya-nawala-pitakotte-malabe-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Athurugiriya Nawala Pitakotte",
+      "company": "Malabe Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:16:44.948Z",
+      "last_seen_at": "2026-10-29T09:16:44.948Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/346705/crew-members-kottawa-kiribathgoda-athurugiriya-pitakotte-nawala-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Kottawa Kiribathgoda Athurugiriya Pitakotte",
+      "company": "Nawala Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:16:30.533Z",
+      "last_seen_at": "2026-10-29T09:16:30.533Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/346651/production-line-coordinator-kelaniya-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Production Line Coordinator",
+      "company": "Kelaniya Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:16:15.598Z",
+      "last_seen_at": "2026-10-29T09:16:15.598Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/346259/crew-members-port-city-independence-arcade-union-place-havelock-nugegoda-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Port City Independence Arcade Union Place Havelock",
+      "company": "Nugegoda Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:16:00.140Z",
+      "last_seen_at": "2026-10-29T09:16:00.140Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/346187/crew-members-mount-lavinia-moratuwa-nawala-kaduwela-wattala-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Mount Lavinia Moratuwa Nawala Kaduwela",
+      "company": "Wattala Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:15:46.250Z",
+      "last_seen_at": "2026-10-29T09:15:46.250Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/346186/delivery-rider-full-time-athurugiriya-pelawatta-pita-kotte-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Delivery Rider Full Time Athurugiriya Pelawatta Pita",
+      "company": "Kotte Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:15:32.517Z",
+      "last_seen_at": "2026-10-29T09:15:32.517Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/346185/senior-executive-rider-acquisition-operations-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Senior Executive Rider Acquisition",
+      "company": "Operations Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:15:18.672Z",
+      "last_seen_at": "2026-10-29T09:15:18.672Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/346710/crew-members-union-place-havelock-independent-arcade-port-city-chilaw-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Union Place Havelock Independent Arcade Port City",
+      "company": "Chilaw Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:15:04.394Z",
+      "last_seen_at": "2026-10-29T09:15:04.394Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/346709/technician-kelaniya-commissary-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Technician Kelaniya",
+      "company": "Commissary Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:14:49.002Z",
+      "last_seen_at": "2026-10-29T09:14:49.002Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/346708/delivery-rider-full-time-athurugiriya-nawala-hokandara-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Delivery Rider Full Time Athurugiriya Nawala",
+      "company": "Hokandara Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:14:35.301Z",
+      "last_seen_at": "2026-10-29T09:14:35.301Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/346707/delivery-rider-full-time-pita-kotte-malabe-pelawatta-gothatuwa-kottawa-homagama-nugegoda-havelock-hokandara-athurugiriya-piliyandala-arcade-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Delivery Rider Full Time Pita Kotte Malabe Pelawatta Gothatuwa Kottawa Homagama Nugegoda Havelock Hokandara Athurugiriya Piliyandala",
+      "company": "Arcade Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:14:20.053Z",
+      "last_seen_at": "2026-10-29T09:14:20.053Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/346706/crew-members-independence-arcade-bambalapitiya-port-city-one-galle-face-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Independence Arcade Bambalapitiya Port City One Galle",
+      "company": "Face Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:14:05.825Z",
+      "last_seen_at": "2026-10-29T09:14:05.825Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/347186/trainee-receptionist-male-female-dehiwala-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Trainee Receptionist Male Female",
+      "company": "Dehiwala Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:13:50.411Z",
+      "last_seen_at": "2026-10-29T09:13:50.411Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/347185/restaurant-manager-sothern-province-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Restaurant Manager Sothern",
+      "company": "Province Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:13:34.534Z",
+      "last_seen_at": "2026-10-29T09:13:34.534Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/342924/crew-members-athurugiriya-nawala-pitakotte-pelawatte-malabe-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Athurugiriya Nawala Pitakotte Pelawatte",
+      "company": "Malabe Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:13:20.671Z",
+      "last_seen_at": "2026-10-29T09:13:20.671Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/342921/crew-members-independence-arcade-bambalapitiya-port-city-union-place-dehiwala-mount-lavinia-havelock-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Independence Arcade Bambalapitiya Port City Union Place Dehiwala Mount Lavinia",
+      "company": "Havelock Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:13:06.637Z",
+      "last_seen_at": "2026-10-29T09:13:06.637Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/342727/restaurant-senior-assistant-associate-managers-island-wide-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Restaurant Senior Assistant Associate Managers Island",
+      "company": "Wide Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:12:52.788Z",
+      "last_seen_at": "2026-10-29T09:12:52.788Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/342588/crew-members-athurugiriya-malabe-pelawatta-gothatuwa-pitakotte-hokandara-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Athurugiriya Malabe Pelawatta Gothatuwa Pitakotte",
+      "company": "Hokandara Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:12:39.520Z",
+      "last_seen_at": "2026-10-29T09:12:39.520Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/342587/crew-members-union-place-havelock-independent-arcade-port-city-nugegoda-panadura-moratuwa-mount-lavinia-kottawa-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Crew Members Union Place Havelock Independent Arcade Port City Nugegoda Panadura Moratuwa Mount Lavinia",
+      "company": "Kottawa Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:12:25.821Z",
+      "last_seen_at": "2026-10-29T09:12:25.821Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://www.topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001565508&ec=DEFZZZ",
+      "portal": "topjobs",
+      "title": "Collection Assistant",
+      "company": "Britannia Garment Packaging (Pvt) Ltd",
+      "first_seen_at": "2026-10-29T09:11:36.612Z",
+      "last_seen_at": "2026-10-29T09:11:36.612Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://www.topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001565507&ec=DEFZZZ",
+      "portal": "topjobs",
+      "title": "Assistant Manager - Legal",
+      "company": "Hutchison Telecommunications Lanka (Pvt) Ltd",
+      "first_seen_at": "2026-10-29T09:11:25.111Z",
+      "last_seen_at": "2026-10-29T09:11:25.111Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://www.topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001565394&ec=DEFZZZ",
+      "portal": "topjobs",
+      "title": "ITIL Foundation (Version 5) Trainer",
+      "company": "Expand",
+      "first_seen_at": "2026-10-29T09:11:13.426Z",
+      "last_seen_at": "2026-10-29T09:11:13.426Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/342586/area-manager-dominos-pizza-sri-lanka",
+      "portal": "xpressjobs",
+      "title": "Area Manager",
+      "company": "Dominos Pizza Sri Lanka",
+      "first_seen_at": "2026-10-29T09:08:57.841Z",
+      "last_seen_at": "2026-10-29T09:08:57.841Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/344078/sales-staff-female-male-double-xl-pvt-ltd",
+      "portal": "xpressjobs",
+      "title": "Sales Staff Female Male",
+      "company": "Double Xl Pvt Ltd",
+      "first_seen_at": "2026-10-29T09:08:42.627Z",
+      "last_seen_at": "2026-10-29T09:08:42.627Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://xpress.jobs/jobs/view/343111/travel-executive-ceylon-tours-ltd",
+      "portal": "xpressjobs",
+      "title": "Travel Executive",
+      "company": "Ceylon Tours Ltd",
+      "first_seen_at": "2026-10-29T09:08:26.035Z",
+      "last_seen_at": "2026-10-29T09:08:26.035Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhk6E=",
+      "portal": "governmentjobs",
+      "title": "Works Aide (Open) - Department of Government Factory",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:34:43.347Z",
+      "last_seen_at": "2026-10-29T08:34:59.682Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhk6I=",
+      "portal": "governmentjobs",
+      "title": "Electrical Crane Operator, Furnanceman Assistant, Fitter Assistant, Machine Operator Assistant, Machinist Assistant, Molder Assistant, Pattern Maker Assistant, Refrigeration & AC Technician Assistant, Tool & Die Maker Assistant, Carpenter Assistant, Hood Maker & Upholster Assistant, Pipe Fitter Assistant - Department of Government Factory",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:34:26.160Z",
+      "last_seen_at": "2026-10-29T08:34:26.160Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhk6M=",
+      "portal": "governmentjobs",
+      "title": "Dispenser - Homoeopathic Medical Council",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:34:09.392Z",
+      "last_seen_at": "2026-10-29T08:34:09.392Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhk6Q=",
+      "portal": "governmentjobs",
+      "title": "Excise Guard Driver (Open) - Excise Department of Sri Lanka",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:33:56.754Z",
+      "last_seen_at": "2026-10-29T08:34:37.305Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhk6U=",
+      "portal": "governmentjobs",
+      "title": "Recruitment of Bachelor of Science (Nursing) Graduates for the Orientation and Coordination Course (2026) - Ministry of Health & Mass Media",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:33:41.611Z",
+      "last_seen_at": "2026-10-29T08:33:54.803Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlKI=",
+      "portal": "governmentjobs",
+      "title": "Director (Legal), Assistant Director, Information Technology Officer, Valuation Officer - Land Reform Commission",
+      "company": "Land Reform Commission",
+      "first_seen_at": "2026-10-29T08:33:21.082Z",
+      "last_seen_at": "2026-10-29T08:33:38.698Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlKQ=",
+      "portal": "governmentjobs",
+      "title": "Director - Postgraduate Institute of Management - University of Jayewardenepura",
+      "company": "University of Sri Jayewardenepura",
+      "first_seen_at": "2026-10-29T08:32:59.381Z",
+      "last_seen_at": "2026-10-29T08:32:59.381Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlKU=",
+      "portal": "governmentjobs",
+      "title": "Registrar - University of Jaffna",
+      "company": "University of Jaffna",
+      "first_seen_at": "2026-10-29T08:32:47.150Z",
+      "last_seen_at": "2026-10-29T08:33:16.450Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlKY=",
+      "portal": "governmentjobs",
+      "title": "Director (Human Resources, Finance) - National Engineering Research & Development Centre of Sri Lanka",
+      "company": "National Engineering Research & Development Centre",
+      "first_seen_at": "2026-10-29T08:32:32.644Z",
+      "last_seen_at": "2026-10-29T08:32:34.073Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlaE=",
+      "portal": "governmentjobs",
+      "title": "Engineer (Civil, Electrical, Mechanical), Engineering Assistant - National Water Supply & Drainage Board",
+      "company": "National Water Supply & Drainage Board",
+      "first_seen_at": "2026-10-29T08:31:45.416Z",
+      "last_seen_at": "2026-10-29T08:31:45.416Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlaI=",
+      "portal": "governmentjobs",
+      "title": "Management Assistant, Engineer (Mechanical) - National Water Supply & Drainage Board",
+      "company": "National Water Supply & Drainage Board",
+      "first_seen_at": "2026-10-29T08:31:26.805Z",
+      "last_seen_at": "2026-10-29T08:31:26.805Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlaM=",
+      "portal": "governmentjobs",
+      "title": "Driver - Postgraduate Institute of Medicine - University of Colombo",
+      "company": "University of Colombo",
+      "first_seen_at": "2026-10-29T08:31:07.540Z",
+      "last_seen_at": "2026-10-29T08:31:07.540Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlag=",
+      "portal": "governmentjobs",
+      "title": "Additional Project Director, Senior Quantity Surveyor, Project Officer, Senior Safeguard Officer, Senior Project Engineer - Ministry of Transport, Highways & Urban Development",
+      "company": "Ministry of Transport, Highways & Urban Development",
+      "first_seen_at": "2026-10-29T08:30:47.721Z",
+      "last_seen_at": "2026-10-29T08:30:47.721Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlp8=",
+      "portal": "governmentjobs",
+      "title": "Driver - Sri Lanka Judges’ Institute",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:30:29.389Z",
+      "last_seen_at": "2026-10-29T08:30:29.389Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlqA=",
+      "portal": "governmentjobs",
+      "title": "Member - Audit Service Commission",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:30:14.282Z",
+      "last_seen_at": "2026-10-29T08:30:14.282Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlqE=",
+      "portal": "governmentjobs",
+      "title": "Director General - Wayamba Development Authority",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:30:02.494Z",
+      "last_seen_at": "2026-10-29T08:30:02.494Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlqI=",
+      "portal": "governmentjobs",
+      "title": "Office Assistant - Wayamba Development Authority",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:29:43.176Z",
+      "last_seen_at": "2026-10-29T08:29:43.176Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://dreamjobs.lk/jobs/air-ticketing-and-inbound-tour-excutive-1",
+      "portal": "dreamjobs",
+      "title": "Air Ticketing and Inbound Tour Excutive 2026",
+      "company": "Summit Lanka Travels & tours Pvt Ltd",
+      "first_seen_at": "2026-10-29T08:29:34.849Z",
+      "last_seen_at": "2026-10-29T08:29:34.849Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlqM=",
+      "portal": "governmentjobs",
+      "title": "Technical Assistant (Agriculture Extension) (Open) - North Western Provincial Public Service",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:29:29.757Z",
+      "last_seen_at": "2026-10-29T08:29:29.757Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://dreamjobs.lk/jobs/software-engineer-senior-software-engineer-flutter-onsite-5",
+      "portal": "dreamjobs",
+      "title": "Software Engineer/ Senior Software Engineer- Flutter (Onsite) 2026",
+      "company": "Elegant Media (Pvt) Ltd",
+      "first_seen_at": "2026-10-29T08:29:29.112Z",
+      "last_seen_at": "2026-10-29T08:29:29.112Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://dreamjobs.lk/jobs/senior-software-engineer-software-engineer-php-onsite-7",
+      "portal": "dreamjobs",
+      "title": "Senior Software Engineer/ Software Engineer- PHP (Onsite) 2026",
+      "company": "Elegant Media (Pvt) Ltd",
+      "first_seen_at": "2026-10-29T08:29:14.702Z",
+      "last_seen_at": "2026-10-29T08:29:14.702Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlqQ=",
+      "portal": "governmentjobs",
+      "title": "Plumber - Department of Labour",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:29:10.650Z",
+      "last_seen_at": "2026-10-29T08:29:10.650Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://dreamjobs.lk/jobs/accounts-administrator-remote",
+      "portal": "dreamjobs",
+      "title": "Accounts Administrator - Remote 2026",
+      "company": "Talent Secure",
+      "first_seen_at": "2026-10-29T08:29:06.624Z",
+      "last_seen_at": "2026-10-29T08:29:06.624Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://dreamjobs.lk/jobs/software-engineer-senior-software-engineer-flutter-onsite-7",
+      "portal": "dreamjobs",
+      "title": "Software Engineer/ Senior Software Engineer- Flutter (Onsite)  2026",
+      "company": "Elegant Media (Pvt) Ltd",
+      "first_seen_at": "2026-10-29T08:28:53.515Z",
+      "last_seen_at": "2026-10-29T08:28:53.515Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlqU=",
+      "portal": "governmentjobs",
+      "title": "Translator (Sinhala/Tamil – Tamil/Sinhala) - Excise Department of Sri Lanka",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:28:53.351Z",
+      "last_seen_at": "2026-10-29T08:28:53.351Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/financial-controller-institute-of-chemistry-ceylon-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Financial Controller, Senior Accounting Officer - Institute of Chemistry Ceylon",
+      "company": "Institute of Chemistry Ceylon",
+      "first_seen_at": "2026-10-29T08:28:44.022Z",
+      "last_seen_at": "2026-10-29T08:28:44.022Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/manager-operations-the-cooperative-wholesale-establishment-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Manager (Operations), Accounts Officer - The Cooperative Wholesale Establishment",
+      "company": "The Cooperative Wholesale Establishment",
+      "first_seen_at": "2026-10-29T08:28:37.201Z",
+      "last_seen_at": "2026-10-29T08:28:37.201Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlqY=",
+      "portal": "governmentjobs",
+      "title": "Circuit Bungalow Keeper - Excise Department of Sri Lanka",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:28:35.790Z",
+      "last_seen_at": "2026-10-29T08:28:35.790Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/works-superintendent-civil-sri-lanka-ports-authority-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Works Superintendent (Civil), Instructor Demonstrator - Sri Lanka Ports Authority",
+      "company": "Sri Lanka Ports Authority",
+      "first_seen_at": "2026-10-29T08:28:29.496Z",
+      "last_seen_at": "2026-10-29T08:28:29.496Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/plumber-department-labour-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Plumber - Department of Labour",
+      "company": "Department of Labour",
+      "first_seen_at": "2026-10-29T08:28:20.715Z",
+      "last_seen_at": "2026-10-29T08:28:20.715Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlqc=",
+      "portal": "governmentjobs",
+      "title": "Technical Officer - Excise Department of Sri Lanka",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:28:19.227Z",
+      "last_seen_at": "2026-10-29T08:28:19.227Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/translator-sinhalatamil-excise-department-of-sri-lanka-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Translator (Sinhala/Tamil – Tamil/Sinhala) - Excise Department of Sri Lanka",
+      "company": "Excise Department of Sri Lanka",
+      "first_seen_at": "2026-10-29T08:28:11.251Z",
+      "last_seen_at": "2026-10-29T08:28:11.251Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/circuit-bungalow-keeper-excise-department-of-sri-lanka-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Circuit Bungalow Keeper - Excise Department of Sri Lanka",
+      "company": "Excise Department of Sri Lanka",
+      "first_seen_at": "2026-10-29T08:28:04.071Z",
+      "last_seen_at": "2026-10-29T08:28:04.071Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhlqg=",
+      "portal": "governmentjobs",
+      "title": "Airmen/Air Women Vacancies - Sri Lanka Regular/Volunteer Air Force",
+      "company": "Sri Lanka Air Force",
+      "first_seen_at": "2026-10-29T08:27:57.575Z",
+      "last_seen_at": "2026-10-29T08:27:57.575Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/technical-officer-excise-department-sri-lanka-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Technical Officer - Excise Department of Sri Lanka",
+      "company": "Excise Department of Sri Lanka",
+      "first_seen_at": "2026-10-29T08:27:56.728Z",
+      "last_seen_at": "2026-10-29T08:27:56.728Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/airmenair-women-sri-lanka-regularvolunteer-air-force-sri-lanka-377",
+      "portal": "lankajobs",
+      "title": "Airmen/Air Women Vacancies - Sri Lanka Regular/Volunteer Air Force",
+      "company": "Sri Lanka Regular/Volunteer Air Force",
+      "first_seen_at": "2026-10-29T08:27:48.782Z",
+      "last_seen_at": "2026-10-29T08:27:48.782Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhl58=",
+      "portal": "governmentjobs",
+      "title": "Laboratory Assistant (Open/Limited) - Department of Animal Production & Health",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:27:37.277Z",
+      "last_seen_at": "2026-10-29T08:27:37.277Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/laboratory-assistant-department-of-animal-production-health-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Laboratory Assistant (Open/Limited) - Department of Animal Production & Health",
+      "company": "Department of Animal Production & Health",
+      "first_seen_at": "2026-10-29T08:27:36.284Z",
+      "last_seen_at": "2026-10-29T08:27:36.284Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/commission-to-investigate-allegations-of-bribery-of-sri-lanka-644",
+      "portal": "lankajobs",
+      "title": "Management Assistant (Open) - Commission to Investigate Allegations of Bribery of Corruption",
+      "company": "Commission to Investigate Allegations of Bribery of Corruption",
+      "first_seen_at": "2026-10-29T08:27:28.454Z",
+      "last_seen_at": "2026-10-29T08:27:28.454Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhl6I=",
+      "portal": "governmentjobs",
+      "title": "Management Assistant (Open) - Commission to Investigate Allegations of Bribery of Corruption",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:27:22.876Z",
+      "last_seen_at": "2026-10-29T08:27:22.876Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/commission-to-investigate-allegations-of-bribery-or-sri-lanka-756",
+      "portal": "lankajobs",
+      "title": "Office Assistant (Open) - Commission to Investigate Allegations of Bribery or Corruption",
+      "company": "Commission to Investigate Allegations of Bribery or Corruption",
+      "first_seen_at": "2026-10-29T08:27:18.096Z",
+      "last_seen_at": "2026-10-29T08:27:18.096Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/driver-sri-lanka-judges-institute-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Driver - Sri Lanka Judges’ Institute",
+      "company": "Sri Lanka Judges’ Institute",
+      "first_seen_at": "2026-10-29T08:27:08.909Z",
+      "last_seen_at": "2026-10-29T08:27:08.909Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhl6M=",
+      "portal": "governmentjobs",
+      "title": "Office Assistant (Open) - Commission to Investigate Allegations of Bribery or Corruption",
+      "company": "Government Gazzette",
+      "first_seen_at": "2026-10-29T08:27:05.316Z",
+      "last_seen_at": "2026-10-29T08:27:05.316Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/member-audit-service-commission-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Member - Audit Service Commission",
+      "company": "Audit Service Commission",
+      "first_seen_at": "2026-10-29T08:27:00.256Z",
+      "last_seen_at": "2026-10-29T08:27:00.256Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/director-general-wayamba-development-authority-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Director General - Wayamba Development Authority",
+      "company": "Wayamba Development Authority",
+      "first_seen_at": "2026-10-29T08:26:52.774Z",
+      "last_seen_at": "2026-10-29T08:26:52.774Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmJ8=",
+      "portal": "governmentjobs",
+      "title": "Security Guard, Garden Assistant, Store man, Vehicle Assistant, Field Assistant, Laboratory Assistant, Tractor Operator, Machine Operator, Animal Keeper, Livestock Collector, Fish Keeper, Mechanic, Carpenter, mason/, Painter, Chainsaw Operator, Plumber, Cook, Elephant Keeper - Department of National Zoological Gardens",
+      "company": "Department of National Zoological Gardens",
+      "first_seen_at": "2026-10-29T08:26:47.861Z",
+      "last_seen_at": "2026-10-29T08:26:47.861Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/office-assistant-wayamba-development-authority-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Office Assistant - Wayamba Development Authority",
+      "company": "Wayamba Development Authority",
+      "first_seen_at": "2026-10-29T08:26:46.065Z",
+      "last_seen_at": "2026-10-29T08:26:46.065Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/technical-assistant-north-western-provincial-public-service-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Technical Assistant (Agriculture Extension) (Open) - North Western Provincial Public Service",
+      "company": "North Western Provincial Public Service",
+      "first_seen_at": "2026-10-29T08:26:38.318Z",
+      "last_seen_at": "2026-10-29T08:26:38.318Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/director-postgraduate-institute-management-sri-lanka-168",
+      "portal": "lankajobs",
+      "title": "Director - Postgraduate Institute of Management",
+      "company": "Postgraduate Institute of Management",
+      "first_seen_at": "2026-10-29T08:26:29.263Z",
+      "last_seen_at": "2026-10-29T08:26:29.263Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmKA=",
+      "portal": "governmentjobs",
+      "title": "Head of Training & Protocol - 1990 Suwa Seriya Foundation",
+      "company": "1990 Suwasariya Foundation",
+      "first_seen_at": "2026-10-29T08:26:25.391Z",
+      "last_seen_at": "2026-10-29T08:26:25.391Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/registrar-university-jaffna-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Registrar - University of Jaffna",
+      "company": "University of Jaffna",
+      "first_seen_at": "2026-10-29T08:26:20.076Z",
+      "last_seen_at": "2026-10-29T08:26:20.076Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/national-engineering-research-development-centre-of-sri-lanka-056",
+      "portal": "lankajobs",
+      "title": "Director (Human Resources, Finance) - National Engineering Research & Development Centre of Sri Lanka",
+      "company": "National Engineering Research & Development Centre of Sri Lanka",
+      "first_seen_at": "2026-10-29T08:26:07.539Z",
+      "last_seen_at": "2026-10-29T08:26:07.539Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmKE=",
+      "portal": "governmentjobs",
+      "title": "Financial Controller, Senior Accounting Officer - Institute of Chemistry Ceylon",
+      "company": "Institute of Chemistry Ceylon",
+      "first_seen_at": "2026-10-29T08:25:58.346Z",
+      "last_seen_at": "2026-10-29T08:25:58.346Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/engineer-civil-national-water-supply-drainage-board-sri-lanka-647",
+      "portal": "lankajobs",
+      "title": "Engineer (Civil, Electrical, Mechanical), Engineering Assistant - National Water Supply & Drainage Board",
+      "company": "National Water Supply & Drainage Board",
+      "first_seen_at": "2026-10-29T08:25:57.111Z",
+      "last_seen_at": "2026-10-29T08:25:57.111Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/management-assistant-national-water-supply-drainage-board-sri-lanka-384",
+      "portal": "lankajobs",
+      "title": "Management Assistant, Engineer (Mechanical) - National Water Supply & Drainage Board",
+      "company": "National Water Supply & Drainage Board",
+      "first_seen_at": "2026-10-29T08:25:49.995Z",
+      "last_seen_at": "2026-10-29T08:25:49.995Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/driver-postgraduate-institute-medicine-sri-lanka-422",
+      "portal": "lankajobs",
+      "title": "Driver - Postgraduate Institute of Medicine",
+      "company": "Postgraduate Institute of Medicine",
+      "first_seen_at": "2026-10-29T08:25:47.407Z",
+      "last_seen_at": "2026-10-29T08:25:47.407Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmKI=",
+      "portal": "governmentjobs",
+      "title": "Manager (Operations), Accounts Officer - The Cooperative Wholesale Establishment",
+      "company": "Cooperative Wholesale Establishment",
+      "first_seen_at": "2026-10-29T08:25:42.873Z",
+      "last_seen_at": "2026-10-29T08:25:42.873Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/director-legal-assistant-director-land-reform-commission-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Director (Legal), Assistant Director, Information Technology Officer - Land Reform Commission",
+      "company": "Land Reform Commission",
+      "first_seen_at": "2026-10-29T08:25:37.701Z",
+      "last_seen_at": "2026-10-29T08:25:37.701Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/commission-to-investigate-allegations-of-bribery-of-sri-lanka-658",
+      "portal": "lankajobs",
+      "title": "Additional Director General (Open) - Commission to Investigate Allegations of Bribery of Corruption",
+      "company": "Commission to Investigate Allegations of Bribery of Corruption",
+      "first_seen_at": "2026-10-29T08:25:30.227Z",
+      "last_seen_at": "2026-10-29T08:25:30.227Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/works-aide-open-department-government-factory-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Works Aide (Open) - Department of Government Factory",
+      "company": "Department of Government Factory",
+      "first_seen_at": "2026-10-29T08:25:22.153Z",
+      "last_seen_at": "2026-10-29T08:25:22.153Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmKM=",
+      "portal": "governmentjobs",
+      "title": "Works Superintendent (Civil), Instructor Demonstrator - Sri Lanka Ports Authority",
+      "company": "Sri Lanka Ports Authority",
+      "first_seen_at": "2026-10-29T08:25:19.148Z",
+      "last_seen_at": "2026-10-29T08:25:19.148Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/electrical-crane-operator-department-of-government-factory-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Electrical Crane Operator, Furnanceman Assistant, Fitter Assistant - Department of Government Factory",
+      "company": "Department of Government Factory",
+      "first_seen_at": "2026-10-29T08:25:13.760Z",
+      "last_seen_at": "2026-10-29T08:25:13.760Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/dispenser-homoeopathic-medical-council-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Dispenser - Homoeopathic Medical Council",
+      "company": "Homoeopathic Medical Council",
+      "first_seen_at": "2026-10-29T08:25:07.211Z",
+      "last_seen_at": "2026-10-29T08:25:07.211Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/excise-guard-driver-excise-department-of-sri-lanka-sri-lanka-535",
+      "portal": "lankajobs",
+      "title": "Excise Guard Driver (Open) - Excise Department of Sri Lanka",
+      "company": "Excise Department of Sri Lanka",
+      "first_seen_at": "2026-10-29T08:24:57.506Z",
+      "last_seen_at": "2026-10-29T08:24:57.506Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmKQ=",
+      "portal": "governmentjobs",
+      "title": "Chief Digital Officer - Bank of Ceylon",
+      "company": "Bank of Ceylon",
+      "first_seen_at": "2026-10-29T08:24:54.448Z",
+      "last_seen_at": "2026-10-29T08:24:54.448Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/recruitment-bachelor-ministry-of-health-mass-media-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Recruitment of Bachelor of Science (Nursing) Graduates for the Orientation and Coordination Course (2026) - Ministry of Health & Mass Media",
+      "company": "Ministry of Health & Mass Media",
+      "first_seen_at": "2026-10-29T08:24:49.300Z",
+      "last_seen_at": "2026-10-29T08:24:49.300Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/ministry-of-education-higher-education-vocational-sri-lanka-861",
+      "portal": "lankajobs",
+      "title": "Assistant Superintendent of Hostel (Open) - Ministry of Education, Higher Education & Vocational Education",
+      "company": "Ministry of Education, Higher Education & Vocational Education",
+      "first_seen_at": "2026-10-29T08:24:36.455Z",
+      "last_seen_at": "2026-10-29T08:24:36.455Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmKc=",
+      "portal": "governmentjobs",
+      "title": "Assistant Accountant - Plantation Human Development Trust",
+      "company": "Plantation Human Development Trust",
+      "first_seen_at": "2026-10-29T08:24:35.574Z",
+      "last_seen_at": "2026-10-29T08:24:35.574Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/document-controller-eastern-charisma",
+      "portal": "lankajobs",
+      "title": "Document Controller - Eastern Charisma",
+      "company": "Eastern Charisma",
+      "first_seen_at": "2026-10-29T08:24:25.069Z",
+      "last_seen_at": "2026-10-29T08:24:25.069Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/red-team-specialist-central-bank-sri-lanka-sri-lanka-097",
+      "portal": "lankajobs",
+      "title": "RED Team Specialist - Central Bank of Sri Lanka",
+      "company": "Central Bank of Sri Lanka",
+      "first_seen_at": "2026-10-29T08:24:18.085Z",
+      "last_seen_at": "2026-10-29T08:24:18.085Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/vacancies-sailors-sri-lanka-volunteer-naval-force-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Vacancies for Sailors - Sri Lanka Volunteer Naval Force",
+      "company": "Sri Lanka Volunteer Naval Force",
+      "first_seen_at": "2026-10-29T08:24:12.099Z",
+      "last_seen_at": "2026-10-29T08:24:12.099Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/field-assistant-development-of-technical-education-training-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Field Assistant (Labour) - Development of Technical Education & Training",
+      "company": "Development of Technical Education & Training",
+      "first_seen_at": "2026-10-29T08:24:05.908Z",
+      "last_seen_at": "2026-10-29T08:24:05.908Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/storekeeper-draftsman-eastern-charisma",
+      "portal": "lankajobs",
+      "title": "Storekeeper / Draftsman - Eastern Charisma",
+      "company": "Eastern Charisma",
+      "first_seen_at": "2026-10-29T08:23:57.983Z",
+      "last_seen_at": "2026-10-29T08:23:57.983Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmKg=",
+      "portal": "governmentjobs",
+      "title": "Lecturer, Senior Lecturer, Medical Officer - University of Colombo",
+      "company": "University of Colombo",
+      "first_seen_at": "2026-10-29T08:23:52.403Z",
+      "last_seen_at": "2026-10-29T08:23:52.403Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/legal-officer-open-department-agrarian-development-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Legal Officer (Open) - Department of Agrarian Development",
+      "company": "Department of Agrarian Development",
+      "first_seen_at": "2026-10-29T08:23:51.529Z",
+      "last_seen_at": "2026-10-29T08:23:51.529Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/boiler-operator-consolidated-business-systems-pt-ld-colombo",
+      "portal": "lankajobs",
+      "title": "Boiler Operator - Consolidated Business Systems Pt Ld",
+      "company": "Consolidated Business Systems Pt Ld",
+      "first_seen_at": "2026-10-29T08:23:43.362Z",
+      "last_seen_at": "2026-10-29T08:23:43.362Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/sales-rep-motor-mechanic-eagle-group-companies-colombo",
+      "portal": "lankajobs",
+      "title": "Sales Rep / Motor Mechanic - Eagle Group Of Companies",
+      "company": "Eagle Group Of Companies",
+      "first_seen_at": "2026-10-29T08:23:36.684Z",
+      "last_seen_at": "2026-10-29T08:23:36.684Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/mechanical-foremen-mechanics-k-d-a-weerasinghe-co-pvt-ltd-colombo",
+      "portal": "lankajobs",
+      "title": "Mechanical Foremen, Mechanics - K D A Weerasinghe & Co (Pvt) Ltd",
+      "company": "K D A Weerasinghe & Co (Pvt) Ltd",
+      "first_seen_at": "2026-10-29T08:23:29.689Z",
+      "last_seen_at": "2026-10-29T08:23:29.689Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/flight-crew-srilankan-airlines-limited-sri-lanka-139",
+      "portal": "lankajobs",
+      "title": "Flight Crew - SriLankan Airlines Limited",
+      "company": "SriLankan Airlines Limited",
+      "first_seen_at": "2026-10-29T08:23:22.666Z",
+      "last_seen_at": "2026-10-29T08:23:22.666Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/probation-sabaragamuwa-provincial-public-service-commission-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Probation Officer (Open) - Sabaragamuwa Provincial Public Service Commission",
+      "company": "Sabaragamuwa Provincial Public Service Commission",
+      "first_seen_at": "2026-10-29T08:23:17.397Z",
+      "last_seen_at": "2026-10-29T08:23:17.397Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/senior-investigations-supervisor-srilankan-airlines-limited-sri-lanka-701",
+      "portal": "lankajobs",
+      "title": "Senior Investigations Supervisor - SriLankan Airlines Limited",
+      "company": "SriLankan Airlines Limited",
+      "first_seen_at": "2026-10-29T08:23:10.521Z",
+      "last_seen_at": "2026-10-29T08:23:10.521Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmZ8=",
+      "portal": "governmentjobs",
+      "title": "Audit Assistant, Works Superintendent (Civil), Technical Officer, Driver, Machinist, Welder, Mason, Laboratory Attendant - University of Colombo",
+      "company": "University of Colombo",
+      "first_seen_at": "2026-10-29T08:23:09.160Z",
+      "last_seen_at": "2026-10-29T08:23:09.160Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/aircraft-techniciansenior-srilankan-airlines-limited-sri-lanka-444",
+      "portal": "lankajobs",
+      "title": "Aircraft Technician/Senior Aircraft Technician - SriLankan Airlines Limited",
+      "company": "SriLankan Airlines Limited",
+      "first_seen_at": "2026-10-29T08:23:03.315Z",
+      "last_seen_at": "2026-10-29T08:23:03.315Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/licensed-aircraft-engineer-srilankan-airlines-limited-sri-lanka-802",
+      "portal": "lankajobs",
+      "title": "Licensed Aircraft Engineer (Line/Base/Cabin/MCC) - SriLankan Airlines Limited",
+      "company": "SriLankan Airlines Limited",
+      "first_seen_at": "2026-10-29T08:22:55.963Z",
+      "last_seen_at": "2026-10-29T08:22:55.963Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmaA=",
+      "portal": "governmentjobs",
+      "title": "Programme Assistant - University of Colombo",
+      "company": "University of Colombo",
+      "first_seen_at": "2026-10-29T08:22:51.785Z",
+      "last_seen_at": "2026-10-29T08:22:51.785Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/assistant-general-condominium-management-authority-sri-lanka-058",
+      "portal": "lankajobs",
+      "title": "Assistant General Manager (Customer Care/HR/Administration) - Condominium Management Authority",
+      "company": "Condominium Management Authority",
+      "first_seen_at": "2026-10-29T08:22:47.687Z",
+      "last_seen_at": "2026-10-29T08:22:47.687Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://observerjobs.lk/vacancy/539/resident-engineer",
+      "portal": "observerjobs",
+      "title": "Resident Engineer",
+      "company": "Rubber Research Institute Of Sri Lanka",
+      "first_seen_at": "2026-10-29T08:22:33.377Z",
+      "last_seen_at": "2026-10-29T08:22:33.377Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmaE=",
+      "portal": "governmentjobs",
+      "title": "Senior Assistant Registrar (Legal & Documentation) - University of Colombo",
+      "company": "University of Colombo",
+      "first_seen_at": "2026-10-29T08:22:31.023Z",
+      "last_seen_at": "2026-10-29T08:22:31.023Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://observerjobs.lk/vacancy/558/engineer--civil--engineer--mechanical--engineer--electrical--engineering-assistant--civil",
+      "portal": "observerjobs",
+      "title": "Engineer ( Civil ) / Engineer ( Mechanical ) / Engineer ( Electrical ) / Engineering Assistant ( Civil )",
+      "company": "National Water Supply And Drainage Board",
+      "first_seen_at": "2026-10-29T08:22:18.631Z",
+      "last_seen_at": "2026-10-29T08:22:18.631Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmaI=",
+      "portal": "governmentjobs",
+      "title": "Management Assistant, Assistant Director, Assistant Engineer, Driver/Office Aide - Sri Lanka Institute of Textile & Apparel",
+      "company": "Sri Lanka Institute of Textile & Apparel",
+      "first_seen_at": "2026-10-29T08:22:12.540Z",
+      "last_seen_at": "2026-10-29T08:22:12.540Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://observerjobs.lk/vacancy/535/engineer--mechanical--management-assistant",
+      "portal": "observerjobs",
+      "title": "Engineer ( Mechanical ) / Management Assistant",
+      "company": "National Water Supply And Drainage Board",
+      "first_seen_at": "2026-10-29T08:22:11.026Z",
+      "last_seen_at": "2026-10-29T08:22:11.026Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://observerjobs.lk/vacancy/568/independent-directors",
+      "portal": "observerjobs",
+      "title": "Independent  Directors",
+      "company": "RDB bank",
+      "first_seen_at": "2026-10-29T08:22:04.536Z",
+      "last_seen_at": "2026-10-29T08:22:04.536Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://observerjobs.lk/vacancy/554/general-manager-deputy-general-manager-planning-and-procurement-personal-secretary-training-and-development-officer-engineering-assistant-computer-hardware",
+      "portal": "observerjobs",
+      "title": "General Manager / Deputy General Manager",
+      "company": "State Pharmaceuticals Manufacturing Corporation",
+      "first_seen_at": "2026-10-29T08:21:57.178Z",
+      "last_seen_at": "2026-10-29T08:21:57.178Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmaM=",
+      "portal": "governmentjobs",
+      "title": "Assistant Manager (Investigation) - Ceylon Petroleum Corporation",
+      "company": "Ceylon Petroleum Corporation",
+      "first_seen_at": "2026-10-29T08:21:56.699Z",
+      "last_seen_at": "2026-10-29T08:21:56.699Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/zden-array-36-sales-executive",
+      "portal": "jobpal",
+      "title": "Sales Executive",
+      "company": "Zden",
+      "first_seen_at": "2026-10-29T08:21:47.694Z",
+      "last_seen_at": "2026-10-29T08:21:47.694Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmaQ=",
+      "portal": "governmentjobs",
+      "title": "Translator (Sinhala /English) (Tamil/English) - Ceylon Petroleum Corporation",
+      "company": "Ceylon Petroleum Corporation",
+      "first_seen_at": "2026-10-29T08:21:38.457Z",
+      "last_seen_at": "2026-10-29T08:21:38.457Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/villa-capers-colombo-array-36-operations-executive",
+      "portal": "jobpal",
+      "title": "Operations Executive",
+      "company": "Villa Capers Colombo",
+      "first_seen_at": "2026-10-29T08:21:36.143Z",
+      "last_seen_at": "2026-10-29T08:21:36.143Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/softlogic-wealth-array-36-general-manager",
+      "portal": "jobpal",
+      "title": "General Manager",
+      "company": "Softlogic wealth",
+      "first_seen_at": "2026-10-29T08:21:26.668Z",
+      "last_seen_at": "2026-10-29T08:21:26.668Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmaU=",
+      "portal": "governmentjobs",
+      "title": "Junior Manager (Marketing, IT) - Sri Lanka Export Credit Insurance Corporation",
+      "company": "Export Credit Insurance Corporation",
+      "first_seen_at": "2026-10-29T08:21:17.507Z",
+      "last_seen_at": "2026-10-29T08:21:17.507Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/ruwanwella-water-supply-project-36-project-secretary",
+      "portal": "jobpal",
+      "title": "Project Secretary",
+      "company": "Ruwanwella Water Supply Project",
+      "first_seen_at": "2026-10-29T08:21:03.656Z",
+      "last_seen_at": "2026-10-29T08:21:03.656Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmaY=",
+      "portal": "governmentjobs",
+      "title": "Management Assistant - Primary Healthcare System Enhancing Project - Ministry of Health & Mass Media",
+      "company": "Ministry of Health",
+      "first_seen_at": "2026-10-29T08:21:01.826Z",
+      "last_seen_at": "2026-10-29T08:21:01.826Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/plantation-company-array-36-sales-staff-sales-manager",
+      "portal": "jobpal",
+      "title": "Sales Staff/ Sales Manager",
+      "company": "Plantation Company",
+      "first_seen_at": "2026-10-29T08:20:50.444Z",
+      "last_seen_at": "2026-10-29T08:20:50.444Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmag=",
+      "portal": "governmentjobs",
+      "title": "General Manager, Deputy General Manager, Personal Secretary, Training & Development Officer, Engineering Assistant (Computer Hardware) - State Pharmaceuticals Manufacturing Corporation",
+      "company": "State Pharmaceuticals Manufacturing Corporation",
+      "first_seen_at": "2026-10-29T08:20:48.753Z",
+      "last_seen_at": "2026-10-29T08:20:48.753Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmp8=",
+      "portal": "governmentjobs",
+      "title": "Assistant Provincial Manager, Extension Officer, Dairy Instructor, Sales Supervisor - Milco (PVT) Ltd",
+      "company": "Milco (Private) Limited",
+      "first_seen_at": "2026-10-29T08:20:32.151Z",
+      "last_seen_at": "2026-10-29T08:20:32.151Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/softlogic-wealth-array-36-manager",
+      "portal": "jobpal",
+      "title": "MANAGER",
+      "company": "Softlogic wealth",
+      "first_seen_at": "2026-10-29T08:20:29.908Z",
+      "last_seen_at": "2026-10-29T08:20:29.908Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmqA=",
+      "portal": "governmentjobs",
+      "title": "Management Assistant, Assistant Director (Accreditation, Finance) - Sri Lanka Accreditation Board",
+      "company": "Sri Lanka Accreditation Board",
+      "first_seen_at": "2026-10-29T08:20:15.465Z",
+      "last_seen_at": "2026-10-29T08:20:15.465Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmqE=",
+      "portal": "governmentjobs",
+      "title": "Assistant Legal Officer, Chief Manager (Project Finance) - Peoples’ Bank",
+      "company": "People's Bank",
+      "first_seen_at": "2026-10-29T08:19:53.756Z",
+      "last_seen_at": "2026-10-29T08:19:53.756Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmqI=",
+      "portal": "governmentjobs",
+      "title": "Librarian (Limited) - Northern Provincial Public Service",
+      "company": "Northern Province",
+      "first_seen_at": "2026-10-29T08:19:31.548Z",
+      "last_seen_at": "2026-10-29T08:19:31.548Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/multi-national-company-in-sri-lanka-colombo-07-array-36-recruitment-and-development-manager",
+      "portal": "jobpal",
+      "title": "Recruitment and Development Manager",
+      "company": "Multi National company in Sri Lanka Colombo 07",
+      "first_seen_at": "2026-10-29T08:19:31.229Z",
+      "last_seen_at": "2026-10-29T08:19:31.229Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/federation-for-environment-climate-and-technology-array-601-tamil-and-english-non-fiction-writer-researcher",
+      "portal": "jobpal",
+      "title": "Tamil and English Non-fiction Writer / Researcher",
+      "company": "Federation for Environment, Climate and Technology",
+      "first_seen_at": "2026-10-29T08:19:17.738Z",
+      "last_seen_at": "2026-10-29T08:19:17.738Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmqM=",
+      "portal": "governmentjobs",
+      "title": "Information & Communication Technology Officer (Open) - Northern Provincial Public Service",
+      "company": "Northern Province",
+      "first_seen_at": "2026-10-29T08:19:11.645Z",
+      "last_seen_at": "2026-10-29T08:19:11.645Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/dd-consulting-array-36-senior-business-analyst-enterprise-consultant",
+      "portal": "jobpal",
+      "title": "Senior Business Analyst / Enterprise Consultant",
+      "company": "DD Consulting",
+      "first_seen_at": "2026-10-29T08:19:04.865Z",
+      "last_seen_at": "2026-10-29T08:19:04.865Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmqQ=",
+      "portal": "governmentjobs",
+      "title": "Director - Securities & Exchange Commission of Sri Lanka",
+      "company": "Securities & Exchange Commission of Sri Lanka",
+      "first_seen_at": "2026-10-29T08:18:47.298Z",
+      "last_seen_at": "2026-10-29T08:18:47.298Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/federation-for-environment-climate-and-technology-array-601-hardware-technician",
+      "portal": "jobpal",
+      "title": "Hardware Technician",
+      "company": "Federation for Environment, Climate and Technology",
+      "first_seen_at": "2026-10-29T08:18:39.090Z",
+      "last_seen_at": "2026-10-29T08:18:39.090Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://governmentjobs.lk/vacancy_details.php?aid=lpyhmqU=",
+      "portal": "governmentjobs",
+      "title": "Recruitment of Project Staff - Mahaweli Authority of Sri Lanka",
+      "company": "Mahaweli Authority",
+      "first_seen_at": "2026-10-29T08:18:22.546Z",
+      "last_seen_at": "2026-10-29T08:18:22.546Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/finders-array-36-sales-marleting-coordinator",
+      "portal": "jobpal",
+      "title": "Sales & Marleting Coordinator",
+      "company": "Finders",
+      "first_seen_at": "2026-10-29T08:18:15.341Z",
+      "last_seen_at": "2026-10-29T08:18:15.341Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/dd-consulting-array-36-digital-transformation-project-manager-consultant",
+      "portal": "jobpal",
+      "title": "Digital Transformation Project Manager / Consultant",
+      "company": "DD Consulting",
+      "first_seen_at": "2026-10-29T08:18:01.651Z",
+      "last_seen_at": "2026-10-29T08:18:01.651Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/ceytech-solution-5039-telecalling-executive-remote",
+      "portal": "jobpal",
+      "title": "Telecalling Executive (REMOTE)",
+      "company": "Ceytech Solution",
+      "first_seen_at": "2026-10-29T08:17:48.787Z",
+      "last_seen_at": "2026-10-29T08:17:48.787Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/finders-36-customer-support-associate-hindi-language",
+      "portal": "jobpal",
+      "title": "Customer Support Associate – Hindi Language",
+      "company": "Finders",
+      "first_seen_at": "2026-10-29T08:17:26.661Z",
+      "last_seen_at": "2026-10-29T08:17:26.661Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/finders-array-36-sales-executive",
+      "portal": "jobpal",
+      "title": "Sales Executive",
+      "company": "Finders",
+      "first_seen_at": "2026-10-29T08:17:10.021Z",
+      "last_seen_at": "2026-10-29T08:17:10.021Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/finders-array-36-trainee-logistics-assistant",
+      "portal": "jobpal",
+      "title": "Trainee Logistics Assistant",
+      "company": "Finders",
+      "first_seen_at": "2026-10-29T08:16:55.441Z",
+      "last_seen_at": "2026-10-29T08:16:55.441Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/finders-array-36-assistant-accountant-2",
+      "portal": "jobpal",
+      "title": "Assistant Accountant",
+      "company": "Finders",
+      "first_seen_at": "2026-10-29T08:16:37.227Z",
+      "last_seen_at": "2026-10-29T08:16:37.227Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/nair-systems-36-salesforce-business-analyst",
+      "portal": "jobpal",
+      "title": "Salesforce Business Analyst",
+      "company": "Nair Systems",
+      "first_seen_at": "2026-10-29T08:16:15.215Z",
+      "last_seen_at": "2026-10-29T08:16:15.215Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/finders-array-36-chef-de-partie",
+      "portal": "jobpal",
+      "title": "Chef de Partie",
+      "company": "Finders",
+      "first_seen_at": "2026-10-29T08:15:58.619Z",
+      "last_seen_at": "2026-10-29T08:15:58.619Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/519997",
+      "portal": "rooster",
+      "title": "Assistant Sales Development Manager (ERP / SaaS / Software)",
+      "company": "Nextjob",
+      "first_seen_at": "2026-10-29T08:15:44.104Z",
+      "last_seen_at": "2026-10-29T08:15:44.104Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/finders-array-36-trainee-electrical-technician",
+      "portal": "jobpal",
+      "title": "Trainee Electrical Technician",
+      "company": "Finders",
+      "first_seen_at": "2026-10-29T08:15:37.375Z",
+      "last_seen_at": "2026-10-29T08:15:37.375Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/519987",
+      "portal": "rooster",
+      "title": "Senior Executive / Executive - Training & Development",
+      "company": "ESOFT UNI",
+      "first_seen_at": "2026-10-29T08:15:31.073Z",
+      "last_seen_at": "2026-10-29T08:15:31.073Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/finders-array-36-customer-support-executive-bpo-japanese-language",
+      "portal": "jobpal",
+      "title": "Customer Support Executive (BPO) - Japanese Language",
+      "company": "Finders",
+      "first_seen_at": "2026-10-29T08:15:19.654Z",
+      "last_seen_at": "2026-10-29T08:15:19.654Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/60345",
+      "portal": "rooster",
+      "title": "Senior Project Manager - Marketing/Digital Marketing",
+      "company": "Surge Global",
+      "first_seen_at": "2026-10-29T08:15:17.027Z",
+      "last_seen_at": "2026-10-29T08:15:17.027Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/519896",
+      "portal": "rooster",
+      "title": "UI & UX Designer (Claude Design & Figma)",
+      "company": "Nextjob",
+      "first_seen_at": "2026-10-29T08:15:00.918Z",
+      "last_seen_at": "2026-10-29T08:15:00.918Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/finders-36-chef-de-partie",
+      "portal": "jobpal",
+      "title": "Chef de Partie",
+      "company": "Finders",
+      "first_seen_at": "2026-10-29T08:14:53.275Z",
+      "last_seen_at": "2026-10-29T08:14:53.275Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/520000",
+      "portal": "rooster",
+      "title": "IFS Techno & Functional Consultant (Kuwait)",
+      "company": "Manpower Sri Lanka",
+      "first_seen_at": "2026-10-29T08:14:40.811Z",
+      "last_seen_at": "2026-10-29T08:14:40.811Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/finders-36-junior-sous-chef",
+      "portal": "jobpal",
+      "title": "Junior Sous Chef",
+      "company": "Finders",
+      "first_seen_at": "2026-10-29T08:14:29.922Z",
+      "last_seen_at": "2026-10-29T08:14:29.922Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/520001",
+      "portal": "rooster",
+      "title": "IFS Developer (Kuwait)",
+      "company": "Manpower Sri Lanka",
+      "first_seen_at": "2026-10-29T08:14:24.893Z",
+      "last_seen_at": "2026-10-29T08:14:24.893Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/520002",
+      "portal": "rooster",
+      "title": "Programme Coordinator",
+      "company": "ESOFT UNI",
+      "first_seen_at": "2026-10-29T08:14:08.548Z",
+      "last_seen_at": "2026-10-29T08:14:08.548Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/finders-36-demi-chef-de-partie",
+      "portal": "jobpal",
+      "title": "Demi Chef De Partie",
+      "company": "Finders",
+      "first_seen_at": "2026-10-29T08:14:05.264Z",
+      "last_seen_at": "2026-10-29T08:14:05.264Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/520004",
+      "portal": "rooster",
+      "title": "Lecturer - Networking",
+      "company": "ESOFT UNI",
+      "first_seen_at": "2026-10-29T08:13:54.614Z",
+      "last_seen_at": "2026-10-29T08:13:54.614Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/auto-ac-array-36-ac-repar-helper",
+      "portal": "jobpal",
+      "title": "AC repar Helper",
+      "company": "Auto Ac",
+      "first_seen_at": "2026-10-29T08:13:43.921Z",
+      "last_seen_at": "2026-10-29T08:13:43.921Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/520005",
+      "portal": "rooster",
+      "title": "Senior Student Counselor / Counselor - Fashion Design ( Campus One Branch )",
+      "company": "ESOFT Metro Campus",
+      "first_seen_at": "2026-10-29T08:13:38.993Z",
+      "last_seen_at": "2026-10-29T08:13:38.993Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/520006",
+      "portal": "rooster",
+      "title": "System Analyst 2 - HR technology (HRIS/HCM), Tulsa, Oklahoma",
+      "company": "AALUCKS Talent Pro",
+      "first_seen_at": "2026-10-29T08:13:23.993Z",
+      "last_seen_at": "2026-10-29T08:13:23.993Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/fmcg-distributor-array-36-store-assistant",
+      "portal": "jobpal",
+      "title": "Store Assistant",
+      "company": "FMCG Distributor",
+      "first_seen_at": "2026-10-29T08:13:23.021Z",
+      "last_seen_at": "2026-10-29T08:13:23.021Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/520007",
+      "portal": "rooster",
+      "title": "Lecturer - IT",
+      "company": "ESOFT UNI",
+      "first_seen_at": "2026-10-29T08:13:12.458Z",
+      "last_seen_at": "2026-10-29T08:13:12.458Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/alliance-media-pvt-ltd-array-36-content-creator-digital-marketing-specialist",
+      "portal": "jobpal",
+      "title": "Content Creator / Digital Marketing Specialist",
+      "company": "Alliance Media Pvt Ltd",
+      "first_seen_at": "2026-10-29T08:13:04.465Z",
+      "last_seen_at": "2026-10-29T08:13:04.465Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/520008",
+      "portal": "rooster",
+      "title": "Assistant Accountant - US",
+      "company": "Setjob.lk",
+      "first_seen_at": "2026-10-29T08:13:00.597Z",
+      "last_seen_at": "2026-10-29T08:13:00.597Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/520009",
+      "portal": "rooster",
+      "title": "Full Stack AI Engineer (React/Node/TypeScript/LLMs)",
+      "company": "Nextjob",
+      "first_seen_at": "2026-10-29T08:12:45.789Z",
+      "last_seen_at": "2026-10-29T08:12:45.789Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/520010",
+      "portal": "rooster",
+      "title": "Project Lead - Real Estate Constructions (Commercial Projects), Delhi-NCR",
+      "company": "AALUCKS Talent Pro",
+      "first_seen_at": "2026-10-29T08:12:27.703Z",
+      "last_seen_at": "2026-10-29T08:12:27.703Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/fmcg-distributor-array-36-accountant-2",
+      "portal": "jobpal",
+      "title": "Accountant",
+      "company": "FMCG Distributor",
+      "first_seen_at": "2026-10-29T08:12:20.964Z",
+      "last_seen_at": "2026-10-29T08:12:20.964Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/519999",
+      "portal": "rooster",
+      "title": "Senior Marketing Operations Specialist - HubSpot (India)",
+      "company": "Surge Global",
+      "first_seen_at": "2026-10-29T08:12:11.055Z",
+      "last_seen_at": "2026-10-29T08:12:11.055Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/village-talkies-array-36-freelance-business-development-executive-36",
+      "portal": "jobpal",
+      "title": "Freelance Business Development Executive",
+      "company": "Village Talkies",
+      "first_seen_at": "2026-10-29T08:12:02.339Z",
+      "last_seen_at": "2026-10-29T08:12:02.339Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/520011",
+      "portal": "rooster",
+      "title": "Channel Development Manager (CDM)",
+      "company": "Manpower Sri Lanka",
+      "first_seen_at": "2026-10-29T08:11:59.108Z",
+      "last_seen_at": "2026-10-29T08:11:59.108Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/520012",
+      "portal": "rooster",
+      "title": "Channel Development Executive (CDE)",
+      "company": "Manpower Sri Lanka",
+      "first_seen_at": "2026-10-29T08:11:39.854Z",
+      "last_seen_at": "2026-10-29T08:11:39.854Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/fmcg-distributor-array-36-driver-2",
+      "portal": "jobpal",
+      "title": "Driver",
+      "company": "FMCG Distributor",
+      "first_seen_at": "2026-10-29T08:11:36.545Z",
+      "last_seen_at": "2026-10-29T08:11:36.545Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/520013",
+      "portal": "rooster",
+      "title": "Engineering Assistant - MEP",
+      "company": "Lyceum Global Holdings",
+      "first_seen_at": "2026-10-29T08:11:26.715Z",
+      "last_seen_at": "2026-10-29T08:11:26.715Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/520014",
+      "portal": "rooster",
+      "title": "Assistant - MEP",
+      "company": "Lyceum Global Holdings",
+      "first_seen_at": "2026-10-29T08:11:09.748Z",
+      "last_seen_at": "2026-10-29T08:11:09.748Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Dehiwala-Mount%20Lavinia/305053/shipping-executive-maliban-busicuit-manufacturies-pvt-ltd",
+      "portal": "jobhub",
+      "title": "Shipping Executive Job Vacancy in Dehiwala-Mount Lavinia, Western Province",
+      "company": "Busicuit Manufacturies Pvt Ltd",
+      "first_seen_at": "2026-10-29T08:10:36.454Z",
+      "last_seen_at": "2026-10-29T08:10:36.454Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/nair-systems-36-linux-and-windows-system-administrator",
+      "portal": "jobpal",
+      "title": "Linux and Windows System Administrator",
+      "company": "Nair Systems",
+      "first_seen_at": "2026-10-29T08:10:36.090Z",
+      "last_seen_at": "2026-10-29T08:10:36.090Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Colombo/305054/sales-executive-alternative-channels-payable-pvt-ltd",
+      "portal": "jobhub",
+      "title": "Sales Executive",
+      "company": "Channels Payable Pvt Ltd",
+      "first_seen_at": "2026-10-29T08:10:30.756Z",
+      "last_seen_at": "2026-10-29T08:10:30.756Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Colombo/305055/showroom-sales-executive-budry-scales-pvt-ltd",
+      "portal": "jobhub",
+      "title": "Showroom Sales Executive Job Vacancy in Colombo, Western Province",
+      "company": "Budry Scales Pvt Ltd",
+      "first_seen_at": "2026-10-29T08:10:23.564Z",
+      "last_seen_at": "2026-10-29T08:10:23.564Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Ja-Ela/305056/sales-marketing-assistant-topp-s-farms-pvt-ltd",
+      "portal": "jobhub",
+      "title": "Sales & Marketing Assistant Job Vacancy in Ja-Ela, Western Province",
+      "company": "S Farms Pvt Ltd",
+      "first_seen_at": "2026-10-29T08:10:17.765Z",
+      "last_seen_at": "2026-10-29T08:10:17.765Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Ja-Ela/305057/shipping-assistant-topp-s-farms-pvt-ltd",
+      "portal": "jobhub",
+      "title": "Shipping Assistant Job Vacancy in Ja-Ela, Western Province",
+      "company": "S Farms Pvt Ltd",
+      "first_seen_at": "2026-10-29T08:10:12.191Z",
+      "last_seen_at": "2026-10-29T08:10:12.191Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/n-a-113-driver-minor-housekeeper",
+      "portal": "jobpal",
+      "title": "Driver/minor housekeeper",
+      "company": "N A",
+      "first_seen_at": "2026-10-29T08:10:09.970Z",
+      "last_seen_at": "2026-10-29T08:10:09.970Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Colombo/305058/sinhala-teachers-wooks-sinhala-school",
+      "portal": "jobhub",
+      "title": "Sinhala Teachers Job Vacancy in Colombo, Western Province",
+      "company": "Direct Employer",
+      "first_seen_at": "2026-10-29T08:10:07.172Z",
+      "last_seen_at": "2026-10-29T08:10:07.172Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Maharagama/305059/management-trainees-asa-international",
+      "portal": "jobhub",
+      "title": "Management Trainees Job Vacancy in Maharagama, Western Province",
+      "company": "Direct Employer",
+      "first_seen_at": "2026-10-29T08:10:02.214Z",
+      "last_seen_at": "2026-10-29T08:10:02.214Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Battaramulla/305060/intern-group-finance-mas-holdings",
+      "portal": "jobhub",
+      "title": "Intern",
+      "company": "Direct Employer",
+      "first_seen_at": "2026-10-29T08:09:55.268Z",
+      "last_seen_at": "2026-10-29T08:09:55.268Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/asiapartstore-5039-freelance-ai-developer",
+      "portal": "jobpal",
+      "title": "Freelance AI Developer",
+      "company": "AsiapartStore",
+      "first_seen_at": "2026-10-29T08:09:44.336Z",
+      "last_seen_at": "2026-10-29T08:09:44.336Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://dreamjobs.lk/jobs/dyer-fabric-dyer-overseas",
+      "portal": "dreamjobs",
+      "title": "DYER - FABRIC DYER (OVERSEAS) 2026",
+      "company": "Bolly Fashion & Textile",
+      "first_seen_at": "2026-10-29T08:09:43.938Z",
+      "last_seen_at": "2026-10-29T08:09:43.938Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://dreamjobs.lk/jobs/video-editor-20",
+      "portal": "dreamjobs",
+      "title": "Video Editor 2026",
+      "company": "Logic Board",
+      "first_seen_at": "2026-10-29T08:09:36.714Z",
+      "last_seen_at": "2026-10-29T08:09:36.714Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/gamage-recruiters-pvt-ltd-array-36-senior-hr-executive-male",
+      "portal": "jobpal",
+      "title": "Senior HR Executive (Male)",
+      "company": "Gamage Recruiters (Pvt) Ltd",
+      "first_seen_at": "2026-10-29T08:08:56.724Z",
+      "last_seen_at": "2026-10-29T08:08:56.724Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://dreamjobs.lk/jobs/air-ticketing-and-inbound-tour-excutive",
+      "portal": "dreamjobs",
+      "title": "Air Ticketing and Inbound Tour Excutive 2026",
+      "company": "Summit Lanka Travels & tours Pvt Ltd",
+      "first_seen_at": "2026-10-29T08:08:37.243Z",
+      "last_seen_at": "2026-10-29T08:08:37.243Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/gamage-recruiters-pvt-ltd-array-36-account-assistant-female",
+      "portal": "jobpal",
+      "title": "Account Assistant – Female",
+      "company": "Gamage Recruiters (Pvt) Ltd",
+      "first_seen_at": "2026-10-29T08:08:09.624Z",
+      "last_seen_at": "2026-10-29T08:08:09.624Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://dreamjobs.lk/jobs/early-years-teacher",
+      "portal": "dreamjobs",
+      "title": "Early Years Teacher 2026",
+      "company": "Little Raccoons Day Nursery Limited",
+      "first_seen_at": "2026-10-29T08:07:55.332Z",
+      "last_seen_at": "2026-10-29T08:07:55.332Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/gamage-recruiters-pvt-ltd-array-36-senior-executive-qa",
+      "portal": "jobpal",
+      "title": "Senior Executive QA",
+      "company": "Gamage Recruiters (Pvt) Ltd",
+      "first_seen_at": "2026-10-29T08:07:52.427Z",
+      "last_seen_at": "2026-10-29T08:07:52.427Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://dreamjobs.lk/jobs/software-engineer-senior-software-engineer-flutter-onsite-6",
+      "portal": "dreamjobs",
+      "title": "Software Engineer/ Senior Software Engineer- Flutter (Onsite) 2026",
+      "company": "Elegant Media (Pvt) Ltd",
+      "first_seen_at": "2026-10-29T08:07:44.931Z",
+      "last_seen_at": "2026-10-29T08:07:44.931Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/asian-star-communication-lanka-pvt-ltd-36-driver",
+      "portal": "jobpal",
+      "title": "Driver",
+      "company": "Asian Star Communication Lanka (Pvt) Ltd.",
+      "first_seen_at": "2026-10-29T08:07:26.619Z",
+      "last_seen_at": "2026-10-29T08:07:26.619Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://dreamjobs.lk/jobs/trainee-project-coordinator-restoration-industry-remote",
+      "portal": "dreamjobs",
+      "title": "Trainee Project Coordinator – Restoration Industry - Remote 2026",
+      "company": "Talent Secure",
+      "first_seen_at": "2026-10-29T08:07:08.667Z",
+      "last_seen_at": "2026-10-29T08:07:08.667Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/rs-holdings-array-39-part-time-work-typing",
+      "portal": "jobpal",
+      "title": "part time work typing",
+      "company": "RS Holdings",
+      "first_seen_at": "2026-10-29T08:07:05.204Z",
+      "last_seen_at": "2026-10-29T08:07:05.204Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://dreamjobs.lk/jobs/accounts-administrator-remote-1",
+      "portal": "dreamjobs",
+      "title": "Accounts Administrator - Remote 2026",
+      "company": "Talent Secure",
+      "first_seen_at": "2026-10-29T08:07:01.765Z",
+      "last_seen_at": "2026-10-29T08:07:01.765Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://dreamjobs.lk/jobs/software-engineer-senior-software-engineer-flutter-onsite-8",
+      "portal": "dreamjobs",
+      "title": "Software Engineer/ Senior Software Engineer- Flutter (Onsite)  2026",
+      "company": "Elegant Media (Pvt) Ltd",
+      "first_seen_at": "2026-10-29T08:06:52.685Z",
+      "last_seen_at": "2026-10-29T08:06:52.685Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/ceylon-holiday-camping-pvt-ltd-array-39-part-time-job-opportunity-jaffna",
+      "portal": "jobpal",
+      "title": "Part Time Job Opportunity Jaffna",
+      "company": "Ceylon Holiday Camping Pvt.Ltd",
+      "first_seen_at": "2026-10-29T08:06:45.861Z",
+      "last_seen_at": "2026-10-29T08:06:45.861Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://dreamjobs.lk/jobs/senior-software-engineer-software-engineer-php-onsite-8",
+      "portal": "dreamjobs",
+      "title": "Senior Software Engineer/ Software Engineer- PHP (Onsite) 2026",
+      "company": "Elegant Media (Pvt) Ltd",
+      "first_seen_at": "2026-10-29T08:06:41.936Z",
+      "last_seen_at": "2026-10-29T08:06:41.936Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/chief-digital-officer-bank-ceylon-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Chief Digital Officer - Bank of Ceylon",
+      "company": "Bank of Ceylon",
+      "first_seen_at": "2026-10-29T08:06:30.635Z",
+      "last_seen_at": "2026-10-29T08:06:30.635Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/rs-holdings-array-36-office-clerk-kandy",
+      "portal": "jobpal",
+      "title": "office clerk - kandy",
+      "company": "RS Holdings",
+      "first_seen_at": "2026-10-29T08:06:26.419Z",
+      "last_seen_at": "2026-10-29T08:06:26.419Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/assistant-accountant-plantation-human-development-trust-sri-lanka-640",
+      "portal": "lankajobs",
+      "title": "Assistant Accountant - Plantation Human Development Trust",
+      "company": "Plantation Human Development Trust",
+      "first_seen_at": "2026-10-29T08:06:23.808Z",
+      "last_seen_at": "2026-10-29T08:06:23.808Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/lecturer-senior-lecturer-medical-university-of-colombo-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Lecturer, Senior Lecturer, Medical Officer - University of Colombo",
+      "company": "University of Colombo",
+      "first_seen_at": "2026-10-29T08:06:16.972Z",
+      "last_seen_at": "2026-10-29T08:06:16.972Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/audit-assistant-works-superintendent-university-of-colombo-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Audit Assistant, Works Superintendent (Civil), Technical Officer, Driver - University of Colombo",
+      "company": "University of Colombo",
+      "first_seen_at": "2026-10-29T08:06:08.952Z",
+      "last_seen_at": "2026-10-29T08:06:08.952Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/programme-assistant-university-colombo-sri-lanka-485",
+      "portal": "lankajobs",
+      "title": "Programme Assistant - University of Colombo",
+      "company": "University of Colombo",
+      "first_seen_at": "2026-10-29T08:06:03.359Z",
+      "last_seen_at": "2026-10-29T08:06:03.359Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/assistant-provincial-manager-extension-milco-pvt-ltd-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Assistant Provincial Manager, Extension Officer, Dairy Instructor, Sales Supervisor - Milco (PVT) Ltd",
+      "company": "Milco (PVT) Ltd",
+      "first_seen_at": "2026-10-29T08:05:56.706Z",
+      "last_seen_at": "2026-10-29T08:05:56.706Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/management-assistant-sri-lanka-accreditation-board-sri-lanka-129",
+      "portal": "lankajobs",
+      "title": "Management Assistant, Assistant Director (Accreditation, Finance) - Sri Lanka Accreditation Board",
+      "company": "Sri Lanka Accreditation Board",
+      "first_seen_at": "2026-10-29T08:05:50.530Z",
+      "last_seen_at": "2026-10-29T08:05:50.530Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/nair-systems-36-affluent-banking-proposition-strategy-execution-consultant-7",
+      "portal": "jobpal",
+      "title": "Affluent Banking Proposition & Strategy Execution Consultant",
+      "company": "Nair Systems",
+      "first_seen_at": "2026-10-29T08:05:41.936Z",
+      "last_seen_at": "2026-10-29T08:05:41.936Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/assistant-legal-officer-chief-manager-peoples-bank-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Assistant Legal Officer, Chief Manager (Project Finance) - Peoples’ Bank",
+      "company": "Peoples’ Bank",
+      "first_seen_at": "2026-10-29T08:05:38.920Z",
+      "last_seen_at": "2026-10-29T08:05:38.920Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/librarian-limited-northern-provincial-public-service-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Librarian (Limited) - Northern Provincial Public Service",
+      "company": "Northern Provincial Public Service",
+      "first_seen_at": "2026-10-29T08:05:31.087Z",
+      "last_seen_at": "2026-10-29T08:05:31.087Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/information-communication-northern-provincial-public-service-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Information & Communication Technology Officer (Open) - Northern Provincial Public Service",
+      "company": "Northern Provincial Public Service",
+      "first_seen_at": "2026-10-29T08:05:22.759Z",
+      "last_seen_at": "2026-10-29T08:05:22.759Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/nair-systems-36-transaction-banking-it-project-manager",
+      "portal": "jobpal",
+      "title": "Transaction Banking IT Project Manager",
+      "company": "Nair Systems",
+      "first_seen_at": "2026-10-29T08:05:15.618Z",
+      "last_seen_at": "2026-10-29T08:05:15.618Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/director-securities-exchange-commission-sri-lanka-sri-lanka-486",
+      "portal": "lankajobs",
+      "title": "Director - Securities & Exchange Commission of Sri Lanka",
+      "company": "Securities & Exchange Commission of Sri Lanka",
+      "first_seen_at": "2026-10-29T08:05:13.078Z",
+      "last_seen_at": "2026-10-29T08:05:13.078Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://lankajobs.lk/Jobs/recruitment-project-mahaweli-authority-of-sri-lanka-sri-lanka",
+      "portal": "lankajobs",
+      "title": "Recruitment of Project Staff - Mahaweli Authority of Sri Lanka",
+      "company": "Mahaweli Authority of Sri Lanka",
+      "first_seen_at": "2026-10-29T08:05:05.839Z",
+      "last_seen_at": "2026-10-29T08:05:05.839Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobfactory.lk/index.php/quickadvertisement/view/46",
+      "portal": "jobfactory",
+      "title": "Technical Sales & Operations Representative – Seychelles",
+      "company": "Pool Solutions Seychelles",
+      "first_seen_at": "2026-10-29T08:04:52.489Z",
+      "last_seen_at": "2026-10-29T08:04:52.489Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/bright-college-array-113-teachers-vacancies",
+      "portal": "jobpal",
+      "title": "Teachers Vacancies",
+      "company": "Bright College",
+      "first_seen_at": "2026-10-29T08:04:31.976Z",
+      "last_seen_at": "2026-10-29T08:04:31.976Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/nair-systems-36-fi-cross-sell-activation-business-analyst-5/",
+      "portal": "jobpal",
+      "title": "FI Cross-Sell Activation Business Analyst",
+      "company": "Nair Systems",
+      "first_seen_at": "2026-10-29T08:04:03.512Z",
+      "last_seen_at": "2026-10-29T08:04:03.512Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/master-chef-matale-array-36-chef-and-kichen-helper",
+      "portal": "jobpal",
+      "title": "CHEF AND KICHEN HELPER",
+      "company": "MASTER CHEF - MATALE",
+      "first_seen_at": "2026-10-29T08:03:49.019Z",
+      "last_seen_at": "2026-10-29T08:03:49.019Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/nair-systems-36-international-expansion-connectivity-business-analyst-2/",
+      "portal": "jobpal",
+      "title": "International Expansion & Connectivity-Business Analyst",
+      "company": "Nair Systems",
+      "first_seen_at": "2026-10-29T08:03:41.652Z",
+      "last_seen_at": "2026-10-29T08:03:41.652Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/fidenz-technologies-array-36-ios-android-software-engineers",
+      "portal": "jobpal",
+      "title": "iOS/Android Software Engineers",
+      "company": "Fidenz Technologies",
+      "first_seen_at": "2026-10-29T08:03:23.220Z",
+      "last_seen_at": "2026-10-29T08:03:23.220Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/nair-systems-36-ftp-business-analyst/",
+      "portal": "jobpal",
+      "title": "FTP Business Analyst",
+      "company": "Nair Systems",
+      "first_seen_at": "2026-10-29T08:03:16.627Z",
+      "last_seen_at": "2026-10-29T08:03:16.627Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/94-nails-pub-array-36-nail-artist",
+      "portal": "jobpal",
+      "title": "Nail Artist",
+      "company": "94 Nail's Pub",
+      "first_seen_at": "2026-10-29T08:02:57.667Z",
+      "last_seen_at": "2026-10-29T08:02:57.667Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/nair-systems-36-fi-cross-sell-activation-business-analyst-6/",
+      "portal": "jobpal",
+      "title": "FI Cross",
+      "company": "Direct Employer",
+      "first_seen_at": "2026-10-29T08:01:59.974Z",
+      "last_seen_at": "2026-10-29T08:01:59.974Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/rogers-international-pvtltd-saudi-arabia-113-yard-operation-assistant-yoa-saudi-arabia-2",
+      "portal": "jobpal",
+      "title": "Yard Operation Assistant (YOA) - Saudi Arabia",
+      "company": "Rogers International (Pvt)Ltd",
+      "first_seen_at": "2026-10-29T08:01:06.907Z",
+      "last_seen_at": "2026-10-29T08:01:06.907Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/ceylon-legend-travels-pvt-ltd-array-36-vacancies-for-the-post-of-assistant-manager-inbound-tourism/",
+      "portal": "jobpal",
+      "title": "Vacancies for the Post of Assistant Manager - Inbound Tourism",
+      "company": "Ceylon Legend Travels (Pvt) Ltd",
+      "first_seen_at": "2026-10-29T08:01:02.154Z",
+      "last_seen_at": "2026-10-29T08:01:02.154Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/lanka-solar-power-systems-pvt-ltd-array-36-sales-executive/",
+      "portal": "jobpal",
+      "title": "Sales Executive",
+      "company": "Lanka Solar Power Systems Pvt Ltd",
+      "first_seen_at": "2026-10-29T08:00:38.886Z",
+      "last_seen_at": "2026-10-29T08:00:38.886Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/giva-sri-lanka-array-36-jewellery-sales-executive/",
+      "portal": "jobpal",
+      "title": "Jewellery Sales Executive",
+      "company": "GIVA Sri Lanka",
+      "first_seen_at": "2026-10-29T08:00:21.062Z",
+      "last_seen_at": "2026-10-29T08:00:21.062Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Durdans-Hospital-Phlebotomist-2024-01-19-1362366",
+      "portal": "jobeka",
+      "title": "Phlebotomist in Anuradhapura at Durdans Hospital",
+      "company": "Durdans Hospital",
+      "first_seen_at": "2026-10-29T08:00:17.362Z",
+      "last_seen_at": "2026-10-29T08:00:17.362Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/In-magna-obcaecati-a-1362540",
+      "portal": "jobeka",
+      "title": "In magna obcaecati a in Rikillagaskada at Gloria Dickerson",
+      "company": "Gloria Dickerson",
+      "first_seen_at": "2026-10-29T08:00:08.680Z",
+      "last_seen_at": "2026-10-29T08:00:08.680Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Mobile-App-Developer-1362869",
+      "portal": "jobeka",
+      "title": "Mobile App Developer in Agarapathana at MWCI",
+      "company": "MWCI",
+      "first_seen_at": "2026-10-29T07:59:59.365Z",
+      "last_seen_at": "2026-10-29T07:59:59.365Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/serene-bridge-resort-36-steward-waiter/",
+      "portal": "jobpal",
+      "title": "Steward (Waiter)",
+      "company": "Serene Bridge Resort",
+      "first_seen_at": "2026-10-29T07:59:57.518Z",
+      "last_seen_at": "2026-10-29T07:59:57.518Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/English-Teacher-1353486",
+      "portal": "jobeka",
+      "title": "English Teacher in Matara at Cambridge College Of British English",
+      "company": "Cambridge College Of British English",
+      "first_seen_at": "2026-10-29T07:59:51.916Z",
+      "last_seen_at": "2026-10-29T07:59:51.916Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/English-Teaching-1353489",
+      "portal": "jobeka",
+      "title": "English Teaching in Matara at Cambridge College Of British English",
+      "company": "Cambridge College Of British English",
+      "first_seen_at": "2026-10-29T07:59:48.904Z",
+      "last_seen_at": "2026-10-29T07:59:48.904Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Sunshinestories-Surf-Yoga-Retreat-Bartender-Ceylon-Sliders-2023-09-16-1353617",
+      "portal": "jobeka",
+      "title": "Bartender, Ceylon Sliders in Weligama at Sunshinestories Surf & Yoga Retreat",
+      "company": "Sunshinestories Surf & Yoga Retreat",
+      "first_seen_at": "2026-10-29T07:59:45.699Z",
+      "last_seen_at": "2026-10-29T07:59:45.699Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobpal.lk/job/vistel-global-private-limited-array-36-site-engineer-telecom/",
+      "portal": "jobpal",
+      "title": "Site Engineer - Telecom",
+      "company": "VISTEL GLOBAL (PRIVATE) LIMITED",
+      "first_seen_at": "2026-10-29T07:59:42.065Z",
+      "last_seen_at": "2026-10-29T07:59:42.065Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Sunshinestories-Surf-Yoga-Retreat-Barista-Ceylon-Sliders-2023-09-16-1353618",
+      "portal": "jobeka",
+      "title": "Barista, Ceylon Sliders in Weligama at Sunshinestories Surf & Yoga Retreat",
+      "company": "Sunshinestories Surf & Yoga Retreat",
+      "first_seen_at": "2026-10-29T07:59:37.793Z",
+      "last_seen_at": "2026-10-29T07:59:37.793Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Sunshinestories-Surf-Yoga-Retreat-Assistant-Front-Desk-Manager-Ceylon-Sliders-2023-09-16-1353619",
+      "portal": "jobeka",
+      "title": "Assistant Front Desk Manager, Ceylon Sliders in Weligama at Sunshinestories Surf & Yoga Retreat",
+      "company": "Sunshinestories Surf & Yoga Retreat",
+      "first_seen_at": "2026-10-29T07:59:32.467Z",
+      "last_seen_at": "2026-10-29T07:59:32.467Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Sunshinestories-Surf-Yoga-Retreat-Front-Desk-Sales-Assistant-Ceylon-Sliders-2023-09-16-1353620",
+      "portal": "jobeka",
+      "title": "Front Desk / Sales Assistant, Ceylon Sliders in Weligama at Sunshinestories Surf & Yoga Retreat",
+      "company": "Sunshinestories Surf & Yoga Retreat",
+      "first_seen_at": "2026-10-29T07:59:23.482Z",
+      "last_seen_at": "2026-10-29T07:59:23.482Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Sunshinestories-Surf-Yoga-Retreat-Commis-Chef-Ceylon-Sliders-2023-09-16-1353621",
+      "portal": "jobeka",
+      "title": "Commis Chef, Ceylon Sliders in Weligama at Sunshinestories Surf & Yoga Retreat",
+      "company": "Sunshinestories Surf & Yoga Retreat",
+      "first_seen_at": "2026-10-29T07:59:12.787Z",
+      "last_seen_at": "2026-10-29T07:59:12.787Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Sunshinestories-Surf-Yoga-Retreat-Chef-de-Partie-Ceylon-Sliders-2023-09-16-1353623",
+      "portal": "jobeka",
+      "title": "Chef de Partie, Ceylon Sliders in Weligama at Sunshinestories Surf & Yoga Retreat",
+      "company": "Sunshinestories Surf & Yoga Retreat",
+      "first_seen_at": "2026-10-29T07:59:09.119Z",
+      "last_seen_at": "2026-10-29T07:59:09.119Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Sunshinestories-Surf-Yoga-Retreat-Steward-Ceylon-Sliders-2023-09-16-1353626",
+      "portal": "jobeka",
+      "title": "Steward, Ceylon Sliders in Weligama at Sunshinestories Surf & Yoga Retreat",
+      "company": "Sunshinestories Surf & Yoga Retreat",
+      "first_seen_at": "2026-10-29T07:59:00.010Z",
+      "last_seen_at": "2026-10-29T07:59:00.010Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-Trainee-Marketing-Business-Development-2024-04-22-1362667",
+      "portal": "jobeka",
+      "title": "Executive Trainee – Marketing & Business Development in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:58:51.302Z",
+      "last_seen_at": "2026-10-29T07:58:51.302Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Sunshinestories-Surf-Yoga-Retreat-Waiter-Ceylon-Sliders-2023-09-16-1353627",
+      "portal": "jobeka",
+      "title": "Waiter, Ceylon Sliders in Weligama at Sunshinestories Surf & Yoga Retreat",
+      "company": "Sunshinestories Surf & Yoga Retreat",
+      "first_seen_at": "2026-10-29T07:58:48.928Z",
+      "last_seen_at": "2026-10-29T07:58:48.928Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Manager-Production-2024-04-25-1362683",
+      "portal": "jobeka",
+      "title": "Manager - Production in Ekala at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:58:47.017Z",
+      "last_seen_at": "2026-10-29T07:58:47.017Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Sunshinestories-Surf-Yoga-Retreat-Sous-Chef-Ceylon-Sliders-2023-09-16-1353631",
+      "portal": "jobeka",
+      "title": "Sous Chef, Ceylon Sliders in Weligama at Sunshinestories Surf & Yoga Retreat",
+      "company": "Sunshinestories Surf & Yoga Retreat",
+      "first_seen_at": "2026-10-29T07:58:46.053Z",
+      "last_seen_at": "2026-10-29T07:58:46.053Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Manager-Quality-Assurance-2024-04-25-1362685",
+      "portal": "jobeka",
+      "title": "Manager - Quality Assurance in Ekala at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:58:44.357Z",
+      "last_seen_at": "2026-10-29T07:58:44.357Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Thyping-1354029",
+      "portal": "jobeka",
+      "title": "Thyping in Morawaka at Sadeepa",
+      "company": "Sadeepa",
+      "first_seen_at": "2026-10-29T07:58:40.915Z",
+      "last_seen_at": "2026-10-29T07:58:40.915Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Internship-HR-2024-04-30-1362691",
+      "portal": "jobeka",
+      "title": "Internship - HR in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:58:39.900Z",
+      "last_seen_at": "2026-10-29T07:58:39.900Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Financial-Architects-and-Managers-1341615",
+      "portal": "jobeka",
+      "title": "Financial Architects and Managers in Kuliyapitiya at AIA Insurance Lanka  - Kuliyapitiya",
+      "company": "AIA Insurance Lanka  - Kuliyapitiya",
+      "first_seen_at": "2026-10-29T07:58:36.583Z",
+      "last_seen_at": "2026-10-29T07:58:36.583Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-Manufacturing-Excellence-2024-04-30-1362696",
+      "portal": "jobeka",
+      "title": "Executive - Manufacturing Excellence in Ekala at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:58:36.289Z",
+      "last_seen_at": "2026-10-29T07:58:36.289Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Cashier-and-Data-Entry-Clerk---In-Store-1353972",
+      "portal": "jobeka",
+      "title": "Cashier and Data Entry Clerk – In-Store in Kurunegala at New PG Enterprises",
+      "company": "New PG Enterprises",
+      "first_seen_at": "2026-10-29T07:58:33.135Z",
+      "last_seen_at": "2026-10-29T07:58:33.135Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-International-Business-Development-2024-05-03-1362716",
+      "portal": "jobeka",
+      "title": "Executive - International Business Development  in Ekala at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:58:33.022Z",
+      "last_seen_at": "2026-10-29T07:58:33.022Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Cafe-barista--worker-1353831",
+      "portal": "jobeka",
+      "title": "Cafe barista/ worker in Kandy at Sweet Beans Kandy",
+      "company": "Sweet Beans Kandy",
+      "first_seen_at": "2026-10-29T07:58:29.535Z",
+      "last_seen_at": "2026-10-29T07:58:29.535Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-Logistics-Solutions-2024-05-12-1362739",
+      "portal": "jobeka",
+      "title": "Executive - Logistics Solutions in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:58:29.469Z",
+      "last_seen_at": "2026-10-29T07:58:29.469Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Junior-Executive-Credit-Controller-2024-06-04-1362799",
+      "portal": "jobeka",
+      "title": "Junior Executive - Credit Controller in Katunayake at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:58:25.985Z",
+      "last_seen_at": "2026-10-29T07:58:25.985Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Wealth-Planner-1353970",
+      "portal": "jobeka",
+      "title": "Wealth Planner in Kandy at AIA",
+      "company": "AIA",
+      "first_seen_at": "2026-10-29T07:58:25.704Z",
+      "last_seen_at": "2026-10-29T07:58:25.704Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/ASSISTANT-TRANSPORT-OFFICER-1362558",
+      "portal": "jobeka",
+      "title": "ASSISTANT TRANSPORT OFFICER in Kandy at Dinapala Group",
+      "company": "Dinapala Group",
+      "first_seen_at": "2026-10-29T07:58:22.649Z",
+      "last_seen_at": "2026-10-29T07:58:22.649Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Customer-Experience-Officer-2024-06-28-1362886",
+      "portal": "jobeka",
+      "title": "Customer Experience Officer in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:58:21.699Z",
+      "last_seen_at": "2026-10-29T07:58:21.699Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Web-Developer-1353575",
+      "portal": "jobeka",
+      "title": "Web Developer in Galle at Smart eWorks",
+      "company": "Smart eWorks",
+      "first_seen_at": "2026-10-29T07:58:19.745Z",
+      "last_seen_at": "2026-10-29T07:58:19.745Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Senior-Executive-Integrated-Transport-Solutions-2024-06-28-1362887",
+      "portal": "jobeka",
+      "title": "Senior Executive - Integrated Transport Solutions in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:58:17.329Z",
+      "last_seen_at": "2026-10-29T07:58:17.329Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Sunshinestories-Surf-Yoga-Retreat-Head-Surf-Coach-Sunshinestories-2023-09-16-1353616",
+      "portal": "jobeka",
+      "title": "Head Surf Coach, Sunshinestories in Ahangama at Sunshinestories Surf & Yoga Retreat",
+      "company": "Sunshinestories Surf & Yoga Retreat",
+      "first_seen_at": "2026-10-29T07:58:16.566Z",
+      "last_seen_at": "2026-10-29T07:58:16.566Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Junior-Executive-Operation-2024-06-28-1362888",
+      "portal": "jobeka",
+      "title": "Junior Executive - Operation in Katunayake at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:58:13.182Z",
+      "last_seen_at": "2026-10-29T07:58:13.182Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Sunshinestories-Surf-Yoga-Retreat-Chef-de-Partie-Sunshinestories-2023-09-16-1353622",
+      "portal": "jobeka",
+      "title": "Chef de Partie, Sunshinestories in Ahangama at Sunshinestories Surf & Yoga Retreat",
+      "company": "Sunshinestories Surf & Yoga Retreat",
+      "first_seen_at": "2026-10-29T07:58:12.247Z",
+      "last_seen_at": "2026-10-29T07:58:12.247Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/welder-%E0%B6%B4%E0%B6%BD%E0%B6%B4%E0%B7%94%E0%B6%BB%E0%B7%94%E0%B6%AF%E0%B7%94-%E0%B7%80%E0%B7%99%E0%B6%BD%E0%B7%8A%E0%B6%A9%E0%B7%92%E0%B6%B1%E0%B7%8A-%E0%B6%9A%E0%B7%8F%E0%B6%BB%E0%B7%8A%E0%B6%B8%E0%B7%92%E0%B6%9A%E0%B6%BA%E0%B7%99%E0%B6%9A%E0%B7%94-%E0%B6%89%E0%B6%9A%E0%B7%8A%E0%B6%B8%E0%B6%B1%E0%B7%92%E0%B6%B1%E0%B7%8A-%E0%B6%85%E0%B7%80%E0%B7%81%E0%B7%8A-%E0%B6%BA%E0%B6%BA%E0%B7%92--%E0%B6%AF%E0%B7%80%E0%B7%83%E0%B7%8A-%E0%B6%B4%E0%B6%A9%E0%B7%92--0776060947-1362893",
+      "portal": "jobeka",
+      "title": "welder පලපුරුදු වෙල්ඩින් කාර්මිකයෙකු ඉක්මනින් අවශ්‍යයි. දවස් පඩි, 0776060947 in Ragama at ජයන්ත අයන් වර්ක්ස්",
+      "company": "ජයන්ත අයන් වර්ක්ස්",
+      "first_seen_at": "2026-10-29T07:58:09.651Z",
+      "last_seen_at": "2026-10-29T07:58:09.651Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Sunshinestories-Surf-Yoga-Retreat-Senior-Surf-Coach-Sunshinestories-2023-09-16-1353624",
+      "portal": "jobeka",
+      "title": "Senior Surf Coach, Sunshinestories in Ahangama at Sunshinestories Surf & Yoga Retreat",
+      "company": "Sunshinestories Surf & Yoga Retreat",
+      "first_seen_at": "2026-10-29T07:58:08.111Z",
+      "last_seen_at": "2026-10-29T07:58:08.111Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Assistant-Manager-Engineering-2024-07-14-1362928",
+      "portal": "jobeka",
+      "title": "Assistant Manager - Engineering in Malwana at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:58:06.736Z",
+      "last_seen_at": "2026-10-29T07:58:06.736Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Sunshinestories-Surf-Yoga-Retreat-Social-Host-Sunshinestories-2023-09-16-1353625",
+      "portal": "jobeka",
+      "title": "Social Host, Sunshinestories in Ahangama at Sunshinestories Surf & Yoga Retreat",
+      "company": "Sunshinestories Surf & Yoga Retreat",
+      "first_seen_at": "2026-10-29T07:58:04.036Z",
+      "last_seen_at": "2026-10-29T07:58:04.036Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Sunshinestories-Surf-Yoga-Retreat-Operations-Manager-Ceylon-Sliders-2023-09-16-1353628",
+      "portal": "jobeka",
+      "title": "Operations Manager, Ceylon Sliders in Ahangama at Sunshinestories Surf & Yoga Retreat",
+      "company": "Sunshinestories Surf & Yoga Retreat",
+      "first_seen_at": "2026-10-29T07:58:00.887Z",
+      "last_seen_at": "2026-10-29T07:58:00.887Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-Human-Resources-2024-08-07-1363018",
+      "portal": "jobeka",
+      "title": "Executive - Human Resources in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:57:58.537Z",
+      "last_seen_at": "2026-10-29T07:57:58.537Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Sunshinestories-Surf-Yoga-Retreat-Guest-Photographer-Sunshinestories-2023-09-16-1353629",
+      "portal": "jobeka",
+      "title": "Guest Photographer, Sunshinestories in Ahangama at Sunshinestories Surf & Yoga Retreat",
+      "company": "Sunshinestories Surf & Yoga Retreat",
+      "first_seen_at": "2026-10-29T07:57:56.678Z",
+      "last_seen_at": "2026-10-29T07:57:56.678Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Sunshinestories-Surf-Yoga-Retreat-Yoga-Teacher-Sunshinestories-2023-09-16-1353630",
+      "portal": "jobeka",
+      "title": "Yoga Teacher, Sunshinestories in Ahangama at Sunshinestories Surf & Yoga Retreat",
+      "company": "Sunshinestories Surf & Yoga Retreat",
+      "first_seen_at": "2026-10-29T07:57:53.681Z",
+      "last_seen_at": "2026-10-29T07:57:53.681Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Office-Assistant-1353994",
+      "portal": "jobeka",
+      "title": "Office Assistant in Balapitiya at Smart eWorks",
+      "company": "Smart eWorks",
+      "first_seen_at": "2026-10-29T07:57:49.588Z",
+      "last_seen_at": "2026-10-29T07:57:49.588Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Human-Resource-Specialist-Training-Development-2024-09-01-1363080",
+      "portal": "jobeka",
+      "title": "Human Resource Specialist - Training & Development in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:57:48.357Z",
+      "last_seen_at": "2026-10-29T07:57:48.357Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Aman-Leaning-and-Development-Manager-2024-01-25-1362463",
+      "portal": "jobeka",
+      "title": "Leaning and Development Manager in Galle at Aman",
+      "company": "Aman",
+      "first_seen_at": "2026-10-29T07:57:46.572Z",
+      "last_seen_at": "2026-10-29T07:57:46.572Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-Transport-Operations-2024-09-01-1363082",
+      "portal": "jobeka",
+      "title": "Executive -  Transport Operations in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:57:44.764Z",
+      "last_seen_at": "2026-10-29T07:57:44.764Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Aman-Learning-and-Development-Manager-2024-01-26-1362478",
+      "portal": "jobeka",
+      "title": "Learning and Development Manager in Galle at Aman",
+      "company": "Aman",
+      "first_seen_at": "2026-10-29T07:57:43.303Z",
+      "last_seen_at": "2026-10-29T07:57:43.303Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Senior-Executive-PA-to-Director-2024-09-17-1363110",
+      "portal": "jobeka",
+      "title": "Senior Executive - PA to Director in Katunayake at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:57:41.623Z",
+      "last_seen_at": "2026-10-29T07:57:41.623Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Aman-Front-of-the-House-Manager-2024-01-29-1362514",
+      "portal": "jobeka",
+      "title": "Front of the House Manager in Galle at Aman",
+      "company": "Aman",
+      "first_seen_at": "2026-10-29T07:57:39.983Z",
+      "last_seen_at": "2026-10-29T07:57:39.983Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Aman-Room-Division-Manager-2024-05-21-1362768",
+      "portal": "jobeka",
+      "title": "Room Division Manager in Galle at Aman",
+      "company": "Aman",
+      "first_seen_at": "2026-10-29T07:57:36.945Z",
+      "last_seen_at": "2026-10-29T07:57:36.945Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-Business-Systems-2024-09-27-1363130",
+      "portal": "jobeka",
+      "title": "Executive - Business Systems in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:57:35.326Z",
+      "last_seen_at": "2026-10-29T07:57:35.326Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Aman-Executive-Chef-2024-07-02-1362896",
+      "portal": "jobeka",
+      "title": "Executive Chef in Galle at Aman",
+      "company": "Aman",
+      "first_seen_at": "2026-10-29T07:57:33.272Z",
+      "last_seen_at": "2026-10-29T07:57:33.272Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Senior-Executive-Maintenance-Engineer-2024-10-01-1363140",
+      "portal": "jobeka",
+      "title": "Senior Executive - Maintenance Engineer in Katunayake at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:57:30.509Z",
+      "last_seen_at": "2026-10-29T07:57:30.509Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Aman-Sous-Chef-2024-07-10-1362918",
+      "portal": "jobeka",
+      "title": "Sous Chef in Galle at Aman",
+      "company": "Aman",
+      "first_seen_at": "2026-10-29T07:57:29.275Z",
+      "last_seen_at": "2026-10-29T07:57:29.275Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Senior-Executive-Safety-And-Compliance-2024-10-15-1363173",
+      "portal": "jobeka",
+      "title": "Senior Executive - Safety And Compliance in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:57:26.630Z",
+      "last_seen_at": "2026-10-29T07:57:26.630Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Aman-Chief-Engineer-2024-07-22-1362954",
+      "portal": "jobeka",
+      "title": "Chief Engineer in Galle at Aman",
+      "company": "Aman",
+      "first_seen_at": "2026-10-29T07:57:25.971Z",
+      "last_seen_at": "2026-10-29T07:57:25.971Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Senior-Executive-Engineering-2024-10-16-1363175",
+      "portal": "jobeka",
+      "title": "Senior Executive - Engineering in Ekala at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:57:23.864Z",
+      "last_seen_at": "2026-10-29T07:57:23.864Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Aman-Food-Beverage-Manager-2024-08-18-1363038",
+      "portal": "jobeka",
+      "title": "Food & Beverage Manager in Galle at Aman",
+      "company": "Aman",
+      "first_seen_at": "2026-10-29T07:57:21.000Z",
+      "last_seen_at": "2026-10-29T07:57:21.000Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Senior-Executive-Marketing-and-Business-Development-2024-10-22-1363202",
+      "portal": "jobeka",
+      "title": "Senior Executive - Marketing And Business Development in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:57:16.436Z",
+      "last_seen_at": "2026-10-29T07:57:16.436Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Head-of-Engineering-Mechanical-2024-10-26-1363220",
+      "portal": "jobeka",
+      "title": "Head of Engineering - Mechanical in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:57:11.793Z",
+      "last_seen_at": "2026-10-29T07:57:11.793Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Aman-General-Manager-2024-09-11-1363100",
+      "portal": "jobeka",
+      "title": "General Manager in Galle at Aman",
+      "company": "Aman",
+      "first_seen_at": "2026-10-29T07:57:09.947Z",
+      "last_seen_at": "2026-10-29T07:57:09.947Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-Sales-Marketing-2024-10-26-1363221",
+      "portal": "jobeka",
+      "title": "Executive - Sales & Marketing in Katunayake at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:57:08.174Z",
+      "last_seen_at": "2026-10-29T07:57:08.174Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Aman-Information-Technology-Manager-2024-09-29-1363134",
+      "portal": "jobeka",
+      "title": "Information Technology Manager in Galle at Aman",
+      "company": "Aman",
+      "first_seen_at": "2026-10-29T07:57:06.305Z",
+      "last_seen_at": "2026-10-29T07:57:06.305Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Aman-Security-Officer-2024-10-02-1363142",
+      "portal": "jobeka",
+      "title": "Security Officer in Galle at Aman",
+      "company": "Aman",
+      "first_seen_at": "2026-10-29T07:57:01.713Z",
+      "last_seen_at": "2026-10-29T07:57:01.713Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Assistant-Manager-Safety-Sustainability-Compliance-2024-11-12-1363322",
+      "portal": "jobeka",
+      "title": "Assistant Manager - Safety, Sustainability & Compliance in Katunayake at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:56:59.400Z",
+      "last_seen_at": "2026-10-29T07:56:59.400Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Aman-Executive-Chef-2024-11-13-1363325",
+      "portal": "jobeka",
+      "title": "Executive Chef in Galle at Aman",
+      "company": "Aman",
+      "first_seen_at": "2026-10-29T07:56:58.863Z",
+      "last_seen_at": "2026-10-29T07:56:58.863Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Junior-Executive-HR-Admin-2024-11-28-1363393",
+      "portal": "jobeka",
+      "title": "Junior Executive - HR & Admin in Katunayake at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:56:53.675Z",
+      "last_seen_at": "2026-10-29T07:56:53.675Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Aman-Cluster-Learning-Development-and-Quality-Manager-Sri-Lanka-2024-12-10-1363457",
+      "portal": "jobeka",
+      "title": "Cluster Learning & Development and Quality Manager – Sri Lanka in Galle at Aman",
+      "company": "Aman",
+      "first_seen_at": "2026-10-29T07:56:47.411Z",
+      "last_seen_at": "2026-10-29T07:56:47.411Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-Stores-2024-11-28-1363395",
+      "portal": "jobeka",
+      "title": "Executive - Stores in Gonawala at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:56:46.815Z",
+      "last_seen_at": "2026-10-29T07:56:46.815Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-Production-2024-11-29-1363400",
+      "portal": "jobeka",
+      "title": "Executive - Production in Badalgama at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:56:43.626Z",
+      "last_seen_at": "2026-10-29T07:56:43.626Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/FACTORY-LABOURER-MALE-AND-COMPUTER-OPERATOR-FEMALE-1363403",
+      "portal": "jobeka",
+      "title": "FACTORY LABOURER MALE AND COMPUTER OPERATOR FEMALE in Peliyagoda at ELEGANCE INDUSTRIES",
+      "company": "ELEGANCE INDUSTRIES",
+      "first_seen_at": "2026-10-29T07:56:38.535Z",
+      "last_seen_at": "2026-10-29T07:56:38.535Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Data-Entry-Online-Job-1363421",
+      "portal": "jobeka",
+      "title": "Data Entry Online Job in Gampaha at Ruu Ceylon",
+      "company": "Ruu Ceylon",
+      "first_seen_at": "2026-10-29T07:56:34.750Z",
+      "last_seen_at": "2026-10-29T07:56:34.750Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Junior-Executive-2024-12-06-1363443",
+      "portal": "jobeka",
+      "title": "Junior Executive in Katunayake at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:56:31.720Z",
+      "last_seen_at": "2026-10-29T07:56:31.720Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-Learning-Development-2024-12-29-1363513",
+      "portal": "jobeka",
+      "title": "Executive - Learning & Development  in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:56:27.426Z",
+      "last_seen_at": "2026-10-29T07:56:27.426Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-Safety-And-Compliance-2025-01-05-1363534",
+      "portal": "jobeka",
+      "title": "Executive - Safety And Compliance in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:56:24.080Z",
+      "last_seen_at": "2026-10-29T07:56:24.080Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/packing-officer-kegalle",
+      "portal": "ikman",
+      "title": "Packing Officer Vacancy",
+      "company": "PVT COMPANIES",
+      "first_seen_at": "2026-10-29T07:56:23.164Z",
+      "last_seen_at": "2026-10-29T07:56:23.164Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-Warehouse-Operations-2025-01-07-1363544",
+      "portal": "jobeka",
+      "title": "Executive - Warehouse Operations in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:56:18.875Z",
+      "last_seen_at": "2026-10-29T07:56:18.875Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Management-Trainee-2025-01-14-1363561",
+      "portal": "jobeka",
+      "title": "MANAGEMENT TRAINEE  in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:56:10.440Z",
+      "last_seen_at": "2026-10-29T07:56:10.440Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/data-entry-operator-part-time-works-from-home-colombo",
+      "portal": "ikman",
+      "title": "Data Entry Operator - (Part Time) Works from Home",
+      "company": "Binance uk",
+      "first_seen_at": "2026-10-29T07:56:08.378Z",
+      "last_seen_at": "2026-10-29T07:56:08.378Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Executive-Procurement-2025-01-17-1363579",
+      "portal": "jobeka",
+      "title": "Executive - Procurement in Gonawala at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:56:02.429Z",
+      "last_seen_at": "2026-10-29T07:56:02.429Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/data-entry-typing-operator-part-time-works-at-home-gampaha-1",
+      "portal": "ikman",
+      "title": "Data Entry Typing Operator - (Part Time) Works At Home",
+      "company": "New Lanka Jobs",
+      "first_seen_at": "2026-10-29T07:56:00.495Z",
+      "last_seen_at": "2026-10-29T07:56:00.495Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Junior-Executive-Export-Operation-2025-01-17-1363580",
+      "portal": "jobeka",
+      "title": "Junior Executive - Export Operation in Gonawala at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:55:59.240Z",
+      "last_seen_at": "2026-10-29T07:55:59.240Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/Hayleys-Senior-Operations-Specialist-Operations-Pharmaceutical-2025-01-19-1363585",
+      "portal": "jobeka",
+      "title": "Senior Operations Specialist - Operations (Pharmaceutical) in Kelaniya at Hayleys",
+      "company": "Hayleys",
+      "first_seen_at": "2026-10-29T07:55:54.819Z",
+      "last_seen_at": "2026-10-29T07:55:54.819Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/credit-officer-male-colombo-5",
+      "portal": "ikman",
+      "title": "CREDIT OFFICER -MALE",
+      "company": "SASENMA MICRO CREDIT (PVT) LTD",
+      "first_seen_at": "2026-10-29T07:55:49.412Z",
+      "last_seen_at": "2026-10-29T07:55:49.412Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobeka.lk/jobs/HR-Executive-1362917",
+      "portal": "jobeka",
+      "title": "HR Executive in Ambagahawatta at factoHR",
+      "company": "factoHR",
+      "first_seen_at": "2026-10-29T07:55:47.334Z",
+      "last_seen_at": "2026-10-29T07:55:47.334Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/packing-job-kilinochchi-1",
+      "portal": "ikman",
+      "title": "Packing Job Vacancy",
+      "company": "PVT COMPANIES",
+      "first_seen_at": "2026-10-29T07:55:40.959Z",
+      "last_seen_at": "2026-10-29T07:55:40.959Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/distribution-sales-representative-batticaloa",
+      "portal": "ikman",
+      "title": "Distribution Sales Representative",
+      "company": "Harry Traders",
+      "first_seen_at": "2026-10-29T07:55:36.454Z",
+      "last_seen_at": "2026-10-29T07:55:36.454Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/lorry-driver-malabe-colombo-1",
+      "portal": "ikman",
+      "title": "Lorry Driver- Malabe Vacancy",
+      "company": "Scan lanka Trading co pvt ltd",
+      "first_seen_at": "2026-10-29T07:55:31.580Z",
+      "last_seen_at": "2026-10-29T07:55:31.580Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/hr-manager-colombo-253",
+      "portal": "ikman",
+      "title": "HR Manager",
+      "company": "LuxuryX",
+      "first_seen_at": "2026-10-29T07:55:12.192Z",
+      "last_seen_at": "2026-10-29T07:55:12.192Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/laptop-macbook-and-gadget-technician-colombo",
+      "portal": "ikman",
+      "title": "Laptop Macbook and Gadget Technician Vacancy",
+      "company": "LuxuryX",
+      "first_seen_at": "2026-10-29T07:54:57.740Z",
+      "last_seen_at": "2026-10-29T07:54:57.740Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/technical-sales-officer-colombo",
+      "portal": "ikman",
+      "title": "Technical Sales Officer",
+      "company": "Private poster",
+      "first_seen_at": "2026-10-29T07:54:48.175Z",
+      "last_seen_at": "2026-10-29T07:54:48.175Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/tender-and-procurement-coordination-officer-colombo",
+      "portal": "ikman",
+      "title": "Tender & Procurement Coordination Officer",
+      "company": "Senu Cabs & Tours",
+      "first_seen_at": "2026-10-29T07:54:40.387Z",
+      "last_seen_at": "2026-10-29T07:54:40.387Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/colombo-364",
+      "portal": "ikman",
+      "title": "𝐋𝐚𝐩𝐭𝐨𝐩 𝐒𝐚𝐥𝐞𝐬𝐩𝐞𝐫𝐬𝐨𝐧",
+      "company": "LuxuryX",
+      "first_seen_at": "2026-10-29T07:54:32.772Z",
+      "last_seen_at": "2026-10-29T07:54:32.772Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/stores-assistant-colombo-279",
+      "portal": "ikman",
+      "title": "Stores Assistant",
+      "company": "Hameedia Stores Pvt(LTD)",
+      "first_seen_at": "2026-10-29T07:54:24.096Z",
+      "last_seen_at": "2026-10-29T07:54:24.096Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/stores-assistant-in-ragama-gampaha-2",
+      "portal": "ikman",
+      "title": "STORES ASSISTANT IN RAGAMA",
+      "company": "S.A. FOOD",
+      "first_seen_at": "2026-10-29T07:54:16.862Z",
+      "last_seen_at": "2026-10-29T07:54:16.862Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/security-officer-colombo-286",
+      "portal": "ikman",
+      "title": "Security Officer",
+      "company": "LuxuryX",
+      "first_seen_at": "2026-10-29T07:54:09.724Z",
+      "last_seen_at": "2026-10-29T07:54:09.724Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/paaribhoogik-seevaa-shyikaa-kollmb-2-colombo-1",
+      "portal": "ikman",
+      "title": "පාරිභෝගික සේවා සහයිකා – කොළඹ 2",
+      "company": "Amante Lanka Pvt Ltd",
+      "first_seen_at": "2026-10-29T07:54:01.192Z",
+      "last_seen_at": "2026-10-29T07:54:01.192Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/sales-executive-colombo-5275",
+      "portal": "ikman",
+      "title": "Sales Executive",
+      "company": "Private Poster",
+      "first_seen_at": "2026-10-29T07:53:53.091Z",
+      "last_seen_at": "2026-10-29T07:53:53.091Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://www.topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001565431&ec=DEFZZZ",
+      "portal": "topjobs",
+      "title": "Apparel Vacancies - Mathugama and Thanamalvila",
+      "company": "Company Name Withheld",
+      "first_seen_at": "2026-10-29T07:53:48.004Z",
+      "last_seen_at": "2026-10-29T07:53:48.004Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://www.topjobs.lk/employer/JobAdvertismentServlet?rid=0&ac=DEFZZZ&jc=0001565389&ec=DEFZZZ",
+      "portal": "topjobs",
+      "title": "Business Analyst",
+      "company": "RSP Enterprises",
+      "first_seen_at": "2026-10-29T07:53:40.887Z",
+      "last_seen_at": "2026-10-29T07:53:40.887Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/packing-officer-gampaha-1082",
+      "portal": "ikman",
+      "title": "Packing Officer Vacancy",
+      "company": "PVT COMPANIES",
+      "first_seen_at": "2026-10-29T07:53:37.581Z",
+      "last_seen_at": "2026-10-29T07:53:37.581Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/sales-person-for-bag-shop-colombo",
+      "portal": "ikman",
+      "title": "Sales Associate",
+      "company": "Fashion Bag",
+      "first_seen_at": "2026-10-29T07:53:26.998Z",
+      "last_seen_at": "2026-10-29T07:53:26.998Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/driver-light-vehicle-pharmaceutical-colombo-1",
+      "portal": "ikman",
+      "title": "Driver Light vehicle - pharmaceutical Vacancy",
+      "company": "Isira Medicals Pvt Ltd",
+      "first_seen_at": "2026-10-29T07:53:19.385Z",
+      "last_seen_at": "2026-10-29T07:53:19.385Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/reservation-executive-colombo",
+      "portal": "ikman",
+      "title": "Reservation Executive",
+      "company": "Aayu Hanthana (Pvt)Ltd",
+      "first_seen_at": "2026-10-29T07:53:07.010Z",
+      "last_seen_at": "2026-10-29T07:53:07.010Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/babysitter-colombo-3",
+      "portal": "ikman",
+      "title": "Babysitter",
+      "company": "Private Poster",
+      "first_seen_at": "2026-10-29T07:52:54.983Z",
+      "last_seen_at": "2026-10-29T07:52:54.983Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/book-keeper-colombo-30",
+      "portal": "ikman",
+      "title": "Office Assistant",
+      "company": "Demon Traders",
+      "first_seen_at": "2026-10-29T07:52:46.354Z",
+      "last_seen_at": "2026-10-29T07:52:46.354Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/telesales-executive-colombo-41",
+      "portal": "ikman",
+      "title": "Telesales Executive",
+      "company": "Airways",
+      "first_seen_at": "2026-10-29T07:52:39.412Z",
+      "last_seen_at": "2026-10-29T07:52:39.412Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://ikman.lk/en/ad/showroom-sales-executive-colombo-366",
+      "portal": "ikman",
+      "title": "Showroom Sales Executive",
+      "company": "Toy Mart",
+      "first_seen_at": "2026-10-29T07:52:24.417Z",
+      "last_seen_at": "2026-10-29T07:52:24.417Z",
+      "status": "ingested"
+    }
+  ],
+  "crawl_runs": [
+    {
+      "id": 207,
+      "portal": "dreamjobs",
+      "started_at": "2026-10-30T04:24:13.964Z",
+      "completed_at": "2026-10-30T04:24:22.573Z",
+      "found_count": 16,
+      "new_scraped": 1,
+      "skipped_existing": 15,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 206,
+      "portal": "lankajobs",
+      "started_at": "2026-10-30T04:24:12.710Z",
+      "completed_at": "2026-10-30T04:24:13.945Z",
+      "found_count": 50,
+      "new_scraped": 0,
+      "skipped_existing": 50,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 205,
+      "portal": "jobfactory",
+      "started_at": "2026-10-30T04:24:08.260Z",
+      "completed_at": "2026-10-30T04:24:12.690Z",
+      "found_count": 1,
+      "new_scraped": 0,
+      "skipped_existing": 1,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 204,
+      "portal": "observerjobs",
+      "started_at": "2026-10-30T04:23:56.035Z",
+      "completed_at": "2026-10-30T04:24:08.240Z",
+      "found_count": 6,
+      "new_scraped": 0,
+      "skipped_existing": 5,
+      "dropped_invalid": 1,
+      "api_status": "OK"
+    },
+    {
+      "id": 203,
+      "portal": "jobpal",
+      "started_at": "2026-10-30T04:23:53.312Z",
+      "completed_at": "2026-10-30T04:23:56.012Z",
+      "found_count": 10,
+      "new_scraped": 0,
+      "skipped_existing": 10,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 202,
+      "portal": "jobeka",
+      "started_at": "2026-10-30T04:21:00.584Z",
+      "completed_at": "2026-10-30T04:23:53.302Z",
+      "found_count": 39,
+      "new_scraped": 22,
+      "skipped_existing": 17,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 201,
+      "portal": "ikman",
+      "started_at": "2026-10-30T04:17:23.622Z",
+      "completed_at": "2026-10-30T04:21:00.565Z",
+      "found_count": 23,
+      "new_scraped": 23,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 200,
+      "portal": "xpressjobs",
+      "started_at": "2026-10-30T04:15:20.958Z",
+      "completed_at": "2026-10-30T04:17:23.612Z",
+      "found_count": 49,
+      "new_scraped": 13,
+      "skipped_existing": 36,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 199,
+      "portal": "topjobs",
+      "started_at": "2026-10-30T04:14:56.203Z",
+      "completed_at": "2026-10-30T04:15:20.948Z",
+      "found_count": 5,
+      "new_scraped": 2,
+      "skipped_existing": 3,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 198,
+      "portal": "governmentjobs",
+      "started_at": "2026-10-29T09:30:22.562Z",
+      "completed_at": "2026-10-29T09:30:28.692Z",
+      "found_count": 50,
+      "new_scraped": 0,
+      "skipped_existing": 50,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 197,
+      "portal": "jobsinsrilanka",
+      "started_at": "2026-10-29T09:30:12.541Z",
+      "completed_at": "2026-10-29T09:30:22.544Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 196,
+      "portal": "myjobs",
+      "started_at": "2026-10-29T09:30:06.831Z",
+      "completed_at": "2026-10-29T09:30:12.522Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 195,
+      "portal": "lankainformation",
+      "started_at": "2026-10-29T09:29:36.401Z",
+      "completed_at": "2026-10-29T09:30:06.813Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 194,
+      "portal": "sundaytimes",
+      "started_at": "2026-10-29T09:29:32.528Z",
+      "completed_at": "2026-10-29T09:29:36.383Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 193,
+      "portal": "guru",
+      "started_at": "2026-10-29T09:29:01.808Z",
+      "completed_at": "2026-10-29T09:29:32.509Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 192,
+      "portal": "jobsnet",
+      "started_at": "2026-10-29T09:28:51.922Z",
+      "completed_at": "2026-10-29T09:29:01.773Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 191,
+      "portal": "careerfirst",
+      "started_at": "2026-10-29T09:28:06.899Z",
+      "completed_at": "2026-10-29T09:28:51.903Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 190,
+      "portal": "workstone",
+      "started_at": "2026-10-29T09:28:06.827Z",
+      "completed_at": "2026-10-29T09:28:06.890Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 189,
+      "portal": "rooster",
+      "started_at": "2026-10-29T09:27:49.951Z",
+      "completed_at": "2026-10-29T09:28:06.816Z",
+      "found_count": 19,
+      "new_scraped": 0,
+      "skipped_existing": 19,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 188,
+      "portal": "jobhub",
+      "started_at": "2026-10-29T09:26:43.912Z",
+      "completed_at": "2026-10-29T09:27:49.936Z",
+      "found_count": 8,
+      "new_scraped": 8,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 187,
+      "portal": "dreamjobs",
+      "started_at": "2026-10-29T09:26:18.175Z",
+      "completed_at": "2026-10-29T09:26:43.893Z",
+      "found_count": 15,
+      "new_scraped": 1,
+      "skipped_existing": 14,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 186,
+      "portal": "lankajobs",
+      "started_at": "2026-10-29T09:26:14.303Z",
+      "completed_at": "2026-10-29T09:26:18.155Z",
+      "found_count": 12,
+      "new_scraped": 0,
+      "skipped_existing": 12,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 185,
+      "portal": "jobfactory",
+      "started_at": "2026-10-29T09:26:10.417Z",
+      "completed_at": "2026-10-29T09:26:14.284Z",
+      "found_count": 1,
+      "new_scraped": 0,
+      "skipped_existing": 1,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 184,
+      "portal": "observerjobs",
+      "started_at": "2026-10-29T09:25:59.443Z",
+      "completed_at": "2026-10-29T09:26:10.402Z",
+      "found_count": 6,
+      "new_scraped": 1,
+      "skipped_existing": 5,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 183,
+      "portal": "jobpal",
+      "started_at": "2026-10-29T09:25:12.673Z",
+      "completed_at": "2026-10-29T09:25:59.433Z",
+      "found_count": 10,
+      "new_scraped": 1,
+      "skipped_existing": 9,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 182,
+      "portal": "jobeka",
+      "started_at": "2026-10-29T09:24:17.916Z",
+      "completed_at": "2026-10-29T09:25:12.653Z",
+      "found_count": 44,
+      "new_scraped": 1,
+      "skipped_existing": 43,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 181,
+      "portal": "ikman",
+      "started_at": "2026-10-29T09:23:34.119Z",
+      "completed_at": "2026-10-29T09:24:17.897Z",
+      "found_count": 25,
+      "new_scraped": 0,
+      "skipped_existing": 25,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 180,
+      "portal": "xpressjobs",
+      "started_at": "2026-10-29T09:11:36.647Z",
+      "completed_at": "2026-10-29T09:23:34.103Z",
+      "found_count": 46,
+      "new_scraped": 43,
+      "skipped_existing": 3,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 179,
+      "portal": "topjobs",
+      "started_at": "2026-10-29T09:10:40.804Z",
+      "completed_at": "2026-10-29T09:11:36.632Z",
+      "found_count": 5,
+      "new_scraped": 3,
+      "skipped_existing": 2,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 178,
+      "portal": "xpressjobs",
+      "started_at": "2026-10-29T09:07:37.770Z",
+      "completed_at": "2026-10-29T09:08:57.860Z",
+      "found_count": 3,
+      "new_scraped": 3,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 177,
+      "portal": "governmentjobs",
+      "started_at": "2026-10-29T08:31:48.032Z",
+      "completed_at": "2026-10-29T08:34:59.699Z",
+      "found_count": 50,
+      "new_scraped": 6,
+      "skipped_existing": 44,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 175,
+      "portal": "jobsinsrilanka",
+      "started_at": "2026-10-29T08:31:41.020Z",
+      "completed_at": "2026-10-29T08:31:48.014Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 174,
+      "portal": "myjobs",
+      "started_at": "2026-10-29T08:31:36.668Z",
+      "completed_at": "2026-10-29T08:31:41.002Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 173,
+      "portal": "lankainformation",
+      "started_at": "2026-10-29T08:31:18.928Z",
+      "completed_at": "2026-10-29T08:31:36.649Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 172,
+      "portal": "sundaytimes",
+      "started_at": "2026-10-29T08:31:15.238Z",
+      "completed_at": "2026-10-29T08:31:18.918Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 171,
+      "portal": "guru",
+      "started_at": "2026-10-29T08:30:48.485Z",
+      "completed_at": "2026-10-29T08:31:15.219Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 170,
+      "portal": "jobsnet",
+      "started_at": "2026-10-29T08:30:41.041Z",
+      "completed_at": "2026-10-29T08:30:48.466Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 169,
+      "portal": "careerfirst",
+      "started_at": "2026-10-29T08:29:56.022Z",
+      "completed_at": "2026-10-29T08:30:41.022Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 168,
+      "portal": "workstone",
+      "started_at": "2026-10-29T08:29:55.935Z",
+      "completed_at": "2026-10-29T08:29:56.011Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 167,
+      "portal": "rooster",
+      "started_at": "2026-10-29T08:29:44.942Z",
+      "completed_at": "2026-10-29T08:29:55.916Z",
+      "found_count": 19,
+      "new_scraped": 0,
+      "skipped_existing": 19,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 166,
+      "portal": "jobhub",
+      "started_at": "2026-10-29T08:29:41.659Z",
+      "completed_at": "2026-10-29T08:29:44.923Z",
+      "found_count": 8,
+      "new_scraped": 0,
+      "skipped_existing": 8,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 165,
+      "portal": "dreamjobs",
+      "started_at": "2026-10-29T08:28:44.047Z",
+      "completed_at": "2026-10-29T08:29:41.645Z",
+      "found_count": 14,
+      "new_scraped": 5,
+      "skipped_existing": 9,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 164,
+      "portal": "lankajobs",
+      "started_at": "2026-10-29T08:22:36.061Z",
+      "completed_at": "2026-10-29T08:28:44.032Z",
+      "found_count": 50,
+      "new_scraped": 45,
+      "skipped_existing": 5,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 163,
+      "portal": "jobfactory",
+      "started_at": "2026-10-29T08:22:33.397Z",
+      "completed_at": "2026-10-29T08:22:36.043Z",
+      "found_count": 1,
+      "new_scraped": 0,
+      "skipped_existing": 1,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 162,
+      "portal": "observerjobs",
+      "started_at": "2026-10-29T08:21:47.731Z",
+      "completed_at": "2026-10-29T08:22:33.387Z",
+      "found_count": 5,
+      "new_scraped": 5,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 176,
+      "portal": "governmentjobs",
+      "started_at": "2026-10-29T08:17:57.222Z",
+      "completed_at": "2026-10-29T08:34:43.366Z",
+      "found_count": 50,
+      "new_scraped": 50,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 160,
+      "portal": "jobsinsrilanka",
+      "started_at": "2026-10-29T08:17:48.527Z",
+      "completed_at": "2026-10-29T08:17:57.204Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 159,
+      "portal": "myjobs",
+      "started_at": "2026-10-29T08:17:41.668Z",
+      "completed_at": "2026-10-29T08:17:48.509Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 158,
+      "portal": "lankainformation",
+      "started_at": "2026-10-29T08:17:14.272Z",
+      "completed_at": "2026-10-29T08:17:41.650Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 157,
+      "portal": "sundaytimes",
+      "started_at": "2026-10-29T08:17:10.560Z",
+      "completed_at": "2026-10-29T08:17:14.255Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 156,
+      "portal": "guru",
+      "started_at": "2026-10-29T08:16:39.357Z",
+      "completed_at": "2026-10-29T08:17:10.542Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 155,
+      "portal": "jobsnet",
+      "started_at": "2026-10-29T08:16:29.311Z",
+      "completed_at": "2026-10-29T08:16:39.339Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 154,
+      "portal": "careerfirst",
+      "started_at": "2026-10-29T08:15:44.290Z",
+      "completed_at": "2026-10-29T08:16:29.293Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 153,
+      "portal": "workstone",
+      "started_at": "2026-10-29T08:15:44.127Z",
+      "completed_at": "2026-10-29T08:15:44.275Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 152,
+      "portal": "rooster",
+      "started_at": "2026-10-29T08:10:36.486Z",
+      "completed_at": "2026-10-29T08:15:44.113Z",
+      "found_count": 19,
+      "new_scraped": 19,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 151,
+      "portal": "jobhub",
+      "started_at": "2026-10-29T08:09:43.972Z",
+      "completed_at": "2026-10-29T08:10:36.472Z",
+      "found_count": 8,
+      "new_scraped": 8,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 150,
+      "portal": "dreamjobs",
+      "started_at": "2026-10-29T08:06:30.669Z",
+      "completed_at": "2026-10-29T08:09:43.957Z",
+      "found_count": 9,
+      "new_scraped": 9,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 149,
+      "portal": "lankajobs",
+      "started_at": "2026-10-29T08:04:52.521Z",
+      "completed_at": "2026-10-29T08:06:30.654Z",
+      "found_count": 12,
+      "new_scraped": 12,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 148,
+      "portal": "jobfactory",
+      "started_at": "2026-10-29T08:04:28.140Z",
+      "completed_at": "2026-10-29T08:04:52.507Z",
+      "found_count": 1,
+      "new_scraped": 1,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 147,
+      "portal": "observerjobs",
+      "started_at": "2026-10-29T08:04:03.544Z",
+      "completed_at": "2026-10-29T08:04:28.125Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 161,
+      "portal": "jobpal",
+      "started_at": "2026-10-29T08:00:20.483Z",
+      "completed_at": "2026-10-29T08:21:47.717Z",
+      "found_count": 47,
+      "new_scraped": 47,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 146,
+      "portal": "jobpal",
+      "started_at": "2026-10-29T07:58:51.335Z",
+      "completed_at": "2026-10-29T08:04:03.529Z",
+      "found_count": 9,
+      "new_scraped": 9,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 145,
+      "portal": "jobeka",
+      "started_at": "2026-10-29T07:56:38.320Z",
+      "completed_at": "2026-10-29T08:00:20.469Z",
+      "found_count": 43,
+      "new_scraped": 42,
+      "skipped_existing": 1,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 144,
+      "portal": "jobeka",
+      "started_at": "2026-10-29T07:55:31.608Z",
+      "completed_at": "2026-10-29T07:58:51.321Z",
+      "found_count": 39,
+      "new_scraped": 39,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 143,
+      "portal": "ikman",
+      "started_at": "2026-10-29T07:54:59.145Z",
+      "completed_at": "2026-10-29T07:56:38.302Z",
+      "found_count": 25,
+      "new_scraped": 6,
+      "skipped_existing": 19,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 141,
+      "portal": "xpressjobs",
+      "started_at": "2026-10-29T07:53:48.035Z",
+      "completed_at": "2026-10-29T07:54:59.136Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 140,
+      "portal": "topjobs",
+      "started_at": "2026-10-29T07:53:22.010Z",
+      "completed_at": "2026-10-29T07:53:48.026Z",
+      "found_count": 5,
+      "new_scraped": 2,
+      "skipped_existing": 3,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 142,
+      "portal": "ikman",
+      "started_at": "2026-10-29T07:51:11.024Z",
+      "completed_at": "2026-10-29T07:55:31.591Z",
+      "found_count": 24,
+      "new_scraped": 24,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+version: '3.8'
+
+services:
+  # Self-Hosted Firecrawl Engine
+  firecrawl:
+    image: ghcr.io/firecrawl/firecrawl:latest
+    container_name: taktak-firecrawl
+    command: node dist/src/index.js
+    environment:
+      HOST: "0.0.0.0"
+      PORT: 3002
+      INTERNAL_PORT: 3002
+      REDIS_URL: redis://redis:6379
+      REDIS_RATE_LIMIT_URL: redis://redis:6379
+      USE_DB_AUTHENTICATION: "false"
+      NUM_WORKERS_PER_QUEUE: 4
+      CRAWL_CONCURRENT_REQUESTS: 5
+      MAX_CONCURRENT_JOBS: 5
+      BROWSER_POOL_SIZE: 3
+      PLAYWRIGHT_MICROSERVICE_URL: http://playwright-service:3000/scrape
+    ports:
+      # Keep 3002 bound to localhost ONLY on the server (Security Rule)
+      - "127.0.0.1:3002:3002"
+    networks:
+      - taktak-net
+    depends_on:
+      - playwright-service
+      - redis
+
+  # Playwright Headless Browser Microservice
+  playwright-service:
+    image: ghcr.io/firecrawl/playwright-service:latest
+    container_name: taktak-playwright
+    restart: unless-stopped
+    environment:
+      PORT: 3000
+    networks:
+      - taktak-net
+
+  # Redis for Firecrawl Job Queues
+  redis:
+    image: redis:alpine
+    container_name: taktak-redis
+    restart: unless-stopped
+    networks:
+      - taktak-net
+
+  # TakTak Scraper Runner Service
+  scraper-runner:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: taktak-runner
+    restart: "no"
+    env_file:
+      - ../.env
+    environment:
+      FIRECRAWL_API_URL: http://firecrawl:3002
+      DRY_RUN: "false"
+    volumes:
+      - ../database:/app/database
+      - ../out:/app/out
+    networks:
+      - taktak-net
+    depends_on:
+      - firecrawl
+
+networks:
+  taktak-net:
+    driver: bridge

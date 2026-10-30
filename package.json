@@ -1,0 +1,24 @@
+{
+  "name": "taktak-firecrawl-workspace",
+  "version": "1.0.0",
+  "description": "TakTak Jobs - Self-Hosted Firecrawl Job Scraper, Ingestion Runner & Status Dashboard",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dry-run": "DRY_RUN=true node index.js",
+    "test-3": "DRY_RUN=true MAX_JOBS_PER_BOARD=5 PORTALS=topjobs,xpressjobs,rooster node index.js",
+    "test": "node backend/test_components.js",
+    "db:view": "node database/view_database.js",
+    "docker:up": "docker compose -f docker/docker-compose.yml up -d",
+    "docker:down": "docker compose -f docker/docker-compose.yml down",
+    "docker:logs": "docker compose -f docker/docker-compose.yml logs -f",
+    "frontend:dev": "cd frontend && npm run dev",
+    "frontend:build": "cd frontend && npm run build",
+    "cron": "node backend/src/scheduler/cron.js",
+    "clean:all": "node backend/reset_db_and_out.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "node-cron": "^4.6.0"
+  }
+}

@@ -1,0 +1,6 @@
+# ==============================================================================
+# TakTak Jobs - Hetzner Production Crontab Schedule (Section 9 Task Brief)
+# ==============================================================================
+# Runs twice daily at 06:00 and 14:00 Colombo time
+CRON_TZ=Asia/Colombo
+0 6,14 * * * /usr/bin/node /opt/scraper-runner/index.js >> /var/log/scraper.log 2>&1
