@@ -1,8 +1,98 @@
 {
-  "exported_at": "2026-10-30T04:24:22.582Z",
-  "total_jobs": 440,
-  "total_runs": 68,
+  "exported_at": "2026-10-30T04:26:03.854Z",
+  "total_jobs": 450,
+  "total_runs": 79,
   "seen_jobs": [
+    {
+      "url": "https://rooster.jobs/jobs/520015",
+      "portal": "rooster",
+      "title": "Security Analyst (SOC L2/L3) - 6-Month Contract (2 Positions)",
+      "company": "Arozen Pvt Ltd",
+      "first_seen_at": "2026-10-30T04:25:49.252Z",
+      "last_seen_at": "2026-10-30T04:25:49.252Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://rooster.jobs/jobs/519394",
+      "portal": "rooster",
+      "title": "Senior QA Engineer",
+      "company": "IdeaBits",
+      "first_seen_at": "2026-10-30T04:25:34.056Z",
+      "last_seen_at": "2026-10-30T04:25:34.056Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Central%20Province/305328/ie-executive-balangoda-maliban-wovens-pvt-ltd",
+      "portal": "jobhub",
+      "title": "IE Executive-Balangoda Job Vacancy",
+      "company": "Maliban Wovens Pvt Ltd",
+      "first_seen_at": "2026-10-30T04:25:20.753Z",
+      "last_seen_at": "2026-10-30T04:25:20.753Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Kadawatha/305329/accounts-executive-pasyale-ayurveda-osu-pvt-ltd",
+      "portal": "jobhub",
+      "title": "Accounts Executive Job Vacancy in Kadawatha, Western Province",
+      "company": "Ayurveda Osu Pvt Ltd",
+      "first_seen_at": "2026-10-30T04:25:14.566Z",
+      "last_seen_at": "2026-10-30T04:25:14.566Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Colombo/305330/senior-reservations-executive-rosyth-estate-house",
+      "portal": "jobhub",
+      "title": "Senior Reservations Executive Job Vacancy in Colombo, Western Province",
+      "company": "Direct Employer",
+      "first_seen_at": "2026-10-30T04:25:07.063Z",
+      "last_seen_at": "2026-10-30T04:25:07.063Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Colombo/305331/procurement-assistant-junior-executive-executive-sumathi-group",
+      "portal": "jobhub",
+      "title": "Procurement Assistant / Junior Executive / Executive Job Vacancy in Colombo, Western Province",
+      "company": "Direct Employer",
+      "first_seen_at": "2026-10-30T04:25:00.228Z",
+      "last_seen_at": "2026-10-30T04:25:00.228Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Colombo/305332/consultant-documentation-officer-deon-international-consultancy",
+      "portal": "jobhub",
+      "title": "Consultant / Documentation Officer Job Vacancy in Colombo, Western Province",
+      "company": "Direct Employer",
+      "first_seen_at": "2026-10-30T04:24:52.560Z",
+      "last_seen_at": "2026-10-30T04:24:52.560Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Colombo/305333/intern-front-desk-lankem-ceylon-plc",
+      "portal": "jobhub",
+      "title": "Intern",
+      "company": "Direct Employer",
+      "first_seen_at": "2026-10-30T04:24:46.038Z",
+      "last_seen_at": "2026-10-30T04:24:46.038Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/305334/travel-socialists-australia-bunnik-tours-sri-lanka",
+      "portal": "jobhub",
+      "title": "Travel Socialists (Australia) Job Vacancy",
+      "company": "Direct Employer",
+      "first_seen_at": "2026-10-30T04:24:38.801Z",
+      "last_seen_at": "2026-10-30T04:24:38.801Z",
+      "status": "ingested"
+    },
+    {
+      "url": "https://jobhub.lk/en/Sri%20Lanka/job/Western%20Province/Gampaha/305335/qs-intern-swisstek-ceylon-plc",
+      "portal": "jobhub",
+      "title": "QS Intern Job Vacancy in Gampaha, Western Province",
+      "company": "Direct Employer",
+      "first_seen_at": "2026-10-30T04:24:33.336Z",
+      "last_seen_at": "2026-10-30T04:24:33.336Z",
+      "status": "ingested"
+    },
     {
       "url": "https://dreamjobs.lk/jobs/senior-software-engineer-software-engineer-php-onsite-5",
       "portal": "dreamjobs",
@@ -3965,6 +4055,127 @@
     }
   ],
   "crawl_runs": [
+    {
+      "id": 218,
+      "portal": "governmentjobs",
+      "started_at": "2026-10-30T04:26:03.815Z",
+      "completed_at": "2026-10-30T04:26:03.835Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 217,
+      "portal": "jobsinsrilanka",
+      "started_at": "2026-10-30T04:26:03.789Z",
+      "completed_at": "2026-10-30T04:26:03.806Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 216,
+      "portal": "myjobs",
+      "started_at": "2026-10-30T04:26:03.757Z",
+      "completed_at": "2026-10-30T04:26:03.778Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 215,
+      "portal": "lankainformation",
+      "started_at": "2026-10-30T04:26:03.722Z",
+      "completed_at": "2026-10-30T04:26:03.746Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 214,
+      "portal": "sundaytimes",
+      "started_at": "2026-10-30T04:26:03.688Z",
+      "completed_at": "2026-10-30T04:26:03.707Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 213,
+      "portal": "guru",
+      "started_at": "2026-10-30T04:26:03.657Z",
+      "completed_at": "2026-10-30T04:26:03.678Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 212,
+      "portal": "jobsnet",
+      "started_at": "2026-10-30T04:26:03.625Z",
+      "completed_at": "2026-10-30T04:26:03.648Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 211,
+      "portal": "careerfirst",
+      "started_at": "2026-10-30T04:25:49.402Z",
+      "completed_at": "2026-10-30T04:26:03.606Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 210,
+      "portal": "workstone",
+      "started_at": "2026-10-30T04:25:49.279Z",
+      "completed_at": "2026-10-30T04:25:49.392Z",
+      "found_count": 0,
+      "new_scraped": 0,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 209,
+      "portal": "rooster",
+      "started_at": "2026-10-30T04:25:20.781Z",
+      "completed_at": "2026-10-30T04:25:49.270Z",
+      "found_count": 19,
+      "new_scraped": 2,
+      "skipped_existing": 17,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
+    {
+      "id": 208,
+      "portal": "jobhub",
+      "started_at": "2026-10-30T04:24:22.583Z",
+      "completed_at": "2026-10-30T04:25:20.771Z",
+      "found_count": 8,
+      "new_scraped": 8,
+      "skipped_existing": 0,
+      "dropped_invalid": 0,
+      "api_status": "OK"
+    },
     {
       "id": 207,
       "portal": "dreamjobs",
